@@ -20,6 +20,7 @@ neighborhoods/attractions from major public transport stations.
 - Store user comments in a NoSQL database. Use queries to extract information on
 traveler preferences and areas for improvement for each accommodation type.
 5. Global Analysis :
+  **https://docs.google.com/document/d/1tyMYaiAogHPUe-uynhXnD13xuczbCps2fKDKGFy7s6A/edit?usp=sharing**
 - Merge these data sources to analyze trends in the Airbnb accommodation
 market, identify factors influencing prices, and assess the impact of amenities and
 accessibility.
