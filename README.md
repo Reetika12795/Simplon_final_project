@@ -1,4 +1,4 @@
-# Simplon_final_project
+# Simplon_final_project ( https://docs.google.com/presentation/d/1Xbxtj8Inw8Tv-TbG-K51pvpA4g1RjVv2OozOMXLeqXQ/edit?usp=sharing)
 
 Project objective :
 The main objective is to analyze Airbnb data to understand traveler preferences, the
