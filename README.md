@@ -32,3 +32,4 @@ amenities.
 This holistic approach will enable your company to better understand the Airbnb
 accommodation market, optimize its offerings and improve the overall traveler
 experience.
+Elizabeth drive sentiments -----> https://drive.google.com/drive/folders/1FVrTqPMfoOoC59Edepq5GnUcPTTFzlAO
