@@ -1,0 +1,679 @@
+latitude,longitude,dep,arret metro,nomcom,code postal,lieux à visiter,description
+48.9436108846, 2.43183512035,93,"PARC DES EXPOSITIONS, PARIS LE BOURGET, 93350 LE B",LE BOURGET,93013,Paris le Bourget,Centre de congrès et parc d'exposition
+48.8959764786, 2.38719302494,75,"30, AVENUE CORENTIN CARIOU, 75930 PARIS CEDEX 19",PARIS,75119,CITÉ DES SCIENCES ET DE L'INDUSTRIE,Centre de congrès et parc d'exposition
+48.8900865765, 2.39175227622,75,"211, AVENUE JEAN JAURÈS, 75019 PARIS",PARIS,75119,LA GRANDE HALLE DE LA VILLETTE,Centre de congrès et parc d'exposition
+48.8026371227, 2.12351707896,78,"10, RUE DE LA CHANCELLERIE, 78000 VERSAILLES",VERSAILLES,78646,PALAIS DES CONGRÈS DE VERSAILLES,Centre de congrès et parc d'exposition
+49.0471683101, 2.1132703836,95,AVENUE RICHARD DE TOUR,Saint-OUEN-L'AUMONE,95572,Abbaye de Maubuisson,Diffusion de l'art (autre que musée)
+48.6954920317, 2.54723218113,94,RUE DU MOULIN NEUF,PERIGNY,94056,Fondation Dubuffet,Diffusion de l'art (autre que musée)
+48.8609963623, 2.33581863894,75,ENTRÉE PRINCIPALE PAR LA PYRAMIDE - (OU PAR LA GALERIE DU CARROUSEL),Paris,75101,Musée du Louvre,Musée et écomusée
+48.8553706186, 2.34508034696,75,6 BOULEVARD DU PALAIS,Paris,75101,Sainte-Chapelle,Site et monument
+48.8573434418, 2.36243593825,75,23 RUE DE SÉVIGNÉ,Paris,75103,Musée Carnavalet - musée de l'histoire de Paris,Musée et écomusée
+48.8571495139, 2.36176762959,75,24 RUE PAVÉE,Paris,75104,Bibliothèque historique de la ville de Paris - hôtel de Lamoignon,Musée et écomusée
+48.8553100376, 2.36688988163,75,21BIS RUE DES TOURNELLES,Paris,75104,Synagogue de la rue des Tournelles,Site et monument
+48.8486930559, 2.34353303671,75,47 RUE DES ECOLES,Paris,75105,Sorbonne,Site et monument
+48.8520160748, 2.3470495181,75,79 RUE GALANDE,Paris,75105,Église Saint-Julien-le-Pauvre,Site et monument
+48.8418072198, 2.35773792937,75,36 RUE GEOFFREY Saint-HILAIRE,Paris,75105,Galerie de minéralogie et de géologie,Musée et écomusée
+48.8675946796, 2.31879518032,75,1 AVENUE GABRIEL,Paris,75108,Espace Pierre Cardin,Musée et écomusée
+48.8707957179, 2.32593215418,75,28 PLACE DE LA MADELEINE,Paris,75108,Pinacothèque de Paris,Musée et écomusée
+48.8783213841, 2.33739740497,75,27 PLACE Saint-GEORGES,Paris,75109,Fondation Dosne-Thiers,Musée et écomusée
+48.8373255111, 2.3595265486,75,82 BOULEVARD DE L'HÔPITAL,Paris,75113,Eglise Saint-Marcel,Site et monument
+48.8303433162, 2.31398575604,75,3 RUE JONQUOY - ESPACE D'ART INTERNATIONAL,Paris,75114,Musée Adzak,Musée et écomusée
+48.862556562, 2.28606597836,75,2 RUE DU COMMANDANT SCHLOESING,Paris,75116,Cimetière de Passy,Site et monument
+48.8845301473, 2.33818130711,75,SQUARE DES ABBESSES,Paris,75118,Mur des je t'aime,Site et monument
+48.8884713106, 2.39820220246,75,221 AVENUE JEAN-JAURÈS,Paris,75119,Philharmonie de Paris,Site et monument
+48.8705234195, 2.37931535777,75,121 RUE DE MÉNILMONTANT,Paris,75120,Pavillon carré de Baudouin,Site et monument
+48.8569355732, 2.62395830838,77,7 BOULEVARD PIERRE-CARLE,NOISIEL,77337,Siège de Nestlé France,Site et monument
+48.8715868805, 2.21383709801,92,AVENUE DU PROFESSEUR LÉON BERNARD,SURESNES,92073,Mémorial de la France combattante,Site et monument
+48.7731529989, 2.26733933252,92,87 RUE DE CHATEAUBRIAND,CHATENAY-MALABRY,92019,Maison de Chateaubriand,Musée et écomusée
+48.7551589584, 2.32609505083,94,41 RUE MAURICE TÉNINE,FRESNES,94034,Ecomusée du val de Bièvre,Musée et écomusée
+48.8093555282, 2.39083426703,94,25-29 RUE RASPAIL,IVRY-SUR-SEINE,94041,Manufacture des Oeillets,Site et monument
+49.0730684816, 2.16998143395,95,61 RUE DAUBIGNY,AUVERS-SUR-OISE,95039,Atelier de Daubigny,Musée et écomusée
+49.1262584423, 1.89123898827,95,31 GRANDE RUE,COMMENY,95169,Maison du pain,Musée et écomusée
+49.0049440047, 1.63847280553,78,ESCALE DE GUERNES,GUERNES,78290,Escale de Guernes,"Haltes, escales ou ports fluviaux de plaisance"
+48.909943185, 2.49528163887,93,ESCALE DE PAVILLONS-SOUS-BOIS,LES PAVILLONS-SOUS-BOIS,93057,Escale de Pavillons-sous-Bois,"Haltes, escales ou ports fluviaux de plaisance"
+48.8609319712, 2.32595458258,75,MUSÉE D'ORSAY,Paris,75107,Escale de Solférino - musée d'Orsay,"Haltes, escales ou ports fluviaux de plaisance"
+48.9387774315, 2.27796429068,92,,GENNEVILLIERS,92036,Escale de Gennevilliers,"Haltes, escales ou ports fluviaux de plaisance"
+48.9295766889, 2.340256227,93,,SAINT-DENIS,93066,"Escale de Saint-Denis, stade de France","Haltes, escales ou ports fluviaux de plaisance"
+48.8959282279, 2.16758683019,92,"23, RUE DU PORT",NANTERRE,92050,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+48.4533420776, 2.7619205157,77,HALTE DE SAMOIS,SAMOIS-SUR-SEINE,77441,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+49.043219764, 1.57634669815,78,FACE 65 RUE EMILE ZOLA,BENNECOURT,78057,Port Saint-Nicolas,"Haltes, escales ou ports fluviaux de plaisance"
+48.8658271201, 2.33359061115,75,25 RUE DES PYRAMIDES,Paris 10EME ARRONDISSEMENT,75101,,Offices du tourisme et syndicats d'initiative
+48.4028483116, 2.6950686995,77,4 RUE ROYALE,FONTAINEBLEAU,77186,,Offices du tourisme et syndicats d'initiative
+48.1860446995, 2.73209715764,77,67 AVENUE DU MARECHAL LECLERC,SOUPPES SUR LOING,77458,,Offices du tourisme et syndicats d'initiative
+48.4032406585, 2.46975391004,91,47 RUE LANGLOIS,MILLY LA FORET,91405,,Offices du tourisme et syndicats d'initiative
+48.6391108704, 2.27341413113,91,PLACE DE L HOTEL DE VILLE BP 70204 (CEDEX),MONTLHERY,91425,,Offices du tourisme et syndicats d'initiative
+48.6791661364, 2.34562068562,91,48 AVENUE CHARLES DE GAULLE,SAVIGNY SUR ORGE,91589,,Offices du tourisme et syndicats d'initiative
+48.8683643408, 2.22295236625,92,50 BOULEVARD HENRI SELLIER,SURESNES,92073,,Offices du tourisme et syndicats d'initiative
+48.9053582758, 2.4393288221,93,"125 BIS, RUE JEAN JAURES",BOBIGNY,93008,,Offices du tourisme et syndicats d'initiative
+49.1130620225, 2.21584372476,95,RUE DES ECURIES DU ROI BP 3,L ISLE ADAM,95313,,Offices du tourisme et syndicats d'initiative
+48.8794724211, 2.7647848861,77,PLACE FRANÇOIS TRUFFAUT,CHESSY,77111,,Offices du tourisme et syndicats d'initiative
+48.7280806673, 2.35942634037,91,AEROPORT ORLY-OUEST,PARAY-VIEILLE-POSTE,91479,,Offices du tourisme et syndicats d'initiative
+49.0052960615, 2.57691294185,77,AEROPORT CDG - TERMINAL 2F,LE MESNIL-AMELOT,77291,,Offices du tourisme et syndicats d'initiative
+48.8146483174, 2.25146801506,92,19 avenue Auguste Rodin,MEUDON,92048,Musée Rodin - villa des brillants,Musée et écomusée
+48.5452270951, 2.65185704346,77,Avenue du General Patton,MELUN,77288,Nolimit aventure melun,"Espace de loisirs, espace récréatif"
+48.8830272726, 2.30771884099,75,43 AVENUE DE VILLIERS,PARIS,75117,Musée national Jean-Jacques Henner,Musée et écomusée
+48.8303654428, 2.28919116841,75,"1, PLACE DE LA PORTE DE VERSAILLES, 75738 PARIS",PARIS,75115,Paris Expo Porte de Versailles,Centre de congrès et parc d'exposition
+48.8927352831, 2.2367030523,92,PARVIS DE LA DÉFENSE,PARIS LA DÉFENSE,92160,ESPACE GRANDE ARCHE,Centre de congrès et parc d'exposition
+48.7918503182, 2.39646798248,94,59 AVENUE GUY-MOQUET,VITRY-SUR-SEINE,94081,Galerie municipale Jean-Collet,Diffusion de l'art (autre que musée)
+48.8346266655, 2.37664094376,75,QUAI FRANCOIS-MAURIAC,Paris 13EME,75113,"Bibliothèque nationale de france, site François-Mitterrand / Tolbiac",Site et monument
+49.0511050497, 2.09971155993,95,4 RUE LEMERCIER,PONTOISE,95500,Musee Tavet Delacourt,Musée et écomusée
+48.8123213142, 2.42363859034,94,7 AVENUE DU GENERAL DE GAULLE,MAISONS-ALFORT,94046,Musee Fragonard de l'ecole veterinaire,Musée et écomusée
+48.8457325223, 2.22805887299,92,27 RUE DES ABONDANCES,BOULOGNE-BILLANCOURT,92012,Musee Renault,Musée et écomusée
+48.8559412619, 2.34604570406,75,2 BOULEVARD DU PALAIS - PALAIS DE LA CITÉ,Paris,75101,Conciergerie,Site et monument
+48.860932041, 2.3554873412,75,71 RUE DU TEMPLE - HÔTEL DE Saint-AIGNAN,Paris,75103,Musée d'art et d'histoire du judaïsme,Musée et écomusée
+48.8545133074, 2.36371987588,75,62 RUE Saint-ANTOINE - HÔTEL DE SULLY,Paris,75104,Jeu de paume - site Sully,Site et monument
+48.8406938651, 2.34147920886,75,1 PLACE ALPHONSE LAVERAN - COUR D'ENTRÉE DE L'EGLISE,Paris,75105,Ancienne abbaye royale du Val de Grace,Site et monument
+48.8562943671, 2.33860086215,75,11 QUAI DE CONTI - HÔTEL DE LA MONNAIE,Paris,75106,Musée de la monnaie de Paris,Musée et écomusée
+48.8554372991, 2.32768853153,75,222 BOULEVARD Saint-GERMAIN,Paris,75106,Musée des lettres et manuscrits,Musée et écomusée
+48.8581798351, 2.33743100235,75,"ACCÈS : QUAI MALAQUAIS, QUAI DU LOUVRE, QUAI DES GRANDS AUGUSTINS",Paris,75106,Pont des Arts,Site et monument
+48.856115272, 2.31152870638,75,129 RUE DE GRENELLE - HÔTEL NATIONAL DES INVALIDES,Paris,75107,Musée de l'armée,Musée et écomusée
+48.8778537288, 2.30168327013,75,12 RUE DARU,Paris,75108,Cathédrale Saint Alexandre Newski,Site et monument
+48.8754833642, 2.31051194519,75,158 BOULEVARD HAUSSMANN,Paris,75108,Musée Jacquemart-André,Musée et écomusée
+48.8749091887, 2.34314988797,75,16 RUE CADET,Paris,75109,Musée de la Franc-Maçonnerie,Musée et écomusée
+48.8814140292, 2.36772671095,75,214 RUE LAFAYETTE,Paris,75110,Eglise Saint-Joseph-Artisan,Site et monument
+48.8451546538, 2.3806690011,75,111 AVENUE DAUMESNIL - VIADUC DES ARTS,Paris,75112,Atelier du cuivre et de l'argent,Musée et écomusée
+48.8393428218, 2.32988094476,75,3 BOULEVARD EDGARD QUINET - CIMETIÈRE DU MONTPARNASSE,Paris,75114,Moulin du Montparnasse ou moulin de la charité,Site et monument
+48.8193292015, 2.34327912521,75,7 BOULEVARD JOURDAN - RÉSIDENCE POUR ÉTUDIANTS,Paris,75114,Pavillon Suisse,Site et monument
+48.8377894666, 2.29298864991,75,15 RUE EUGÈNE-MILLION,Paris,75115,Hôpital Cognacq Jay,Site et monument
+48.8717336868, 2.28125936593,75,59 AVENUE FOCH,Paris,75116,Musée d'Ennery,Musée et écomusée
+48.8865416809, 2.33968053749,75,11 RUE POULBOT,Paris,75118,Musée espace Dali,Musée et écomusée
+48.8605336154, 2.40439341542,75,119 RUE DE BAGNOLET,Paris,75120,Cimetière de Charonne,Site et monument
+48.9275488364, 3.13098018908,77,RUE DE LA TOUR - OFFICE DE TOURISME DE JOUARRE,JOUARRE,77238,Cryptes mérovingiennes,Site et monument
+48.260833202, 2.71349269632,77,48 AVENUE ETIENNE DAILLY,NEMOURS,77333,Musée départemental de préhistoire d'iIe-de-france,Musée et écomusée
+48.5678355806, 3.29753645853,77,ROUTE DE NANTEUIL,PROVINS,77379,Couvent des Cordelières,Site et monument
+48.7100261659, 2.04165733208,78,CHEMIN JEAN RACINE,CHEVREUSE,78160,Château de la Madeleine,Site et monument
+48.9471591107, 2.15386695754,78,2 AVENUE CARNOT,MAISONS-LAFFITTE,78358,Château de Maisons,Site et monument
+48.9905786304, 1.71956442223,78,PLACE JEAN XXIII,MANTES-LA-JOLIE,78361,Collégiale ND,Site et monument
+48.8981098272, 2.09503703356,78,PLACE CHARLES DE GAULLE,SAINT-GERMAIN-EN-LAYE,78551,Château de Saint Germain en Laye,Site et monument
+48.4025330102, 2.46458480017,91,15 RUE DU LAU,MILLY-LA-FORET,91405,Maison Cocteau,Musée et écomusée
+48.9456852952, 2.43327270732,93,AÉROPORT DE Paris LE BOURGET - BP 173,LE BOURGET,93013,Musée de l’air et de l’espace,Musée et écomusée
+48.9354731972, 2.35869879522,93,1 RUE DE LA LÉGION D'HONNEUR,SAINT-DENIS,93066,Basilique cathédrale de Saint-Denis,Site et monument
+49.1471163701, 2.3822194412,95,FONDATION ROYAUMONT,ASNIERES-SUR-OISE,95026,Abbaye royale de Royaumont,Site et monument
+48.4815558325, 2.71881822014,77,RUE DE TOURNEZY,BOIS-LE-ROI,77037,Ile de loisirs de Bois le Roi,"Espace de loisirs, espace récréatif"
+48.4021414676, 2.70001906344,77,PLACE DU GÉNÉRAL DE GAULLE,FONTAINEBLEAU,77186,Musée national du Château de Fontainebleau,Musée et écomusée
+48.7083134913, 2.95622373463,77,DOMAINE DE LA FORTELLE,LUMIGNY-NESLES-ORMEAUX,77264,Parc des félins,"Espace de loisirs, espace récréatif"
+48.7743542575, 2.3000709752,92,DOMAINE DE SCEAUX,SCEAUX,92071,Musée du domaine departemental de sceaux,Musée et écomusée
+48.4957768009, 2.34343888892,91,AÉRODROME DE LA FERTÉ ALAIS,CERNY,91129,Musée volant Jean Salis,Musée et écomusée
+48.860310548, 2.3246827324,75,2 RUE DE LA LÉGION D'HONNEUR,Paris,75107,Musée national de la légion d'honneur et des ordres de chevalerie,Musée et écomusée
+48.8512515937, 2.35197056881,75,ESCALE DE LA TOURNELLE,Paris,75105,Escale la tournelle Notre-Dame,"Haltes, escales ou ports fluviaux de plaisance"
+48.8471950797, 2.36168235567,75,ESCALE DU JARDIN DES PLANTES,Paris,75105,"Escale Saint-Bernard, jardin des Plantes","Haltes, escales ou ports fluviaux de plaisance"
+48.8408192411, 2.27089931653,75,,Paris,75115,Escale parc André Citroën aval,"Haltes, escales ou ports fluviaux de plaisance"
+48.3878831949, 2.9601620386,77,CHEMIN DU HALAGE DE L'YONNE,MONTEREAU-FAULT-YONNE,77305,Halte de Montereau-Fault-Yonne,"Haltes, escales ou ports fluviaux de plaisance"
+48.9771497298, 2.05676884701,78,4 BOULEVARD NOËL MARC,ANDRESY,78015,Halte de plaisance d'Andrésy,"Haltes, escales ou ports fluviaux de plaisance"
+48.9315748275, 2.00772510821,78,350 CHEMIN DES PÊCHEURS,VILLENNES-SUR-SEINE,78672,"Jet 7 performance, plaisance","Haltes, escales ou ports fluviaux de plaisance"
+48.591347102, 2.48427747398,91,,SaintRY-SUR-SEINE,91577,Port des Bas Vignons,"Haltes, escales ou ports fluviaux de plaisance"
+48.7870603116, 2.47503402282,94,PASSERELLE DE LA PIE,CRETEIL,94028,Port de plaisance,"Haltes, escales ou ports fluviaux de plaisance"
+48.7076691405, 2.04382553055,78,2 PLACE DE LUYNES,CHEVREUSE,78160,,Offices du tourisme et syndicats d'initiative
+48.9904351542, 1.71937895647,78,1 RUE THIERS,MANTES LA JOLIE,78361,,Offices du tourisme et syndicats d'initiative
+48.3190126265, 2.08885268526,91,3 RUE CORPECHOT,MEREVILLE,91390,,Offices du tourisme et syndicats d'initiative
+48.7545806043, 2.30009121842,92,"1, PLACE AUGUSTE MOUNIE",ANTONY,92002,,Offices du tourisme et syndicats d'initiative
+48.9193460427, 2.53702916051,93,5 PLACE FRANCOIS MITTERRAND,LIVRY GARGAN,93046,,Offices du tourisme et syndicats d'initiative
+49.1079487593, 2.34335470288,95,TOUR DU GUET BP 22,ST MARTIN DU TERTRE,95566,,Offices du tourisme et syndicats d'initiative
+49.0028816269, 2.56702427108,93,AEROPORT CDG - TERMINAL 2C,TREMBLAY-EN-FRANCE,93073,,Offices du tourisme et syndicats d'initiative
+48.8659687219, 2.32419937469,75,place de la concorde,Paris,75101,Grande roue des Tuileries,"Espace de loisirs, espace récréatif"
+48.8469209088, 2.27822588685,75,parc Andre Citroën,Paris,75115,Ballon de Paris,"Espace de loisirs, espace récréatif"
+48.8534364885, 2.34411916519,75,Boulevard Saint Michel,Paris,75106,Poussin vert,"Espace de loisirs, espace récréatif"
+48.6513072783, 1.81789667549,78,3 rue Groussay,RAMBOUILLET,78517,Office national des forêts,"Espace de loisirs, espace récréatif"
+49.1467461999, 1.8048976548,95,RD 14,MAGNY-EN-VEXIN,95177,Parc Aventure Land,"Espace de loisirs, espace récréatif"
+48.8090119435, 2.13044999961,78,54 BOULEVARD DE LA REINE,VERSAILLES,78646,Musée Lambinet,Musée et écomusée
+48.8786328114, 2.28316017256,75,"2, PLACE DE LA PORTE MAILLOT, 75853 PARIS CEDEX 17",PARIS,75117,Palais des congrès de Paris,Centre de congrès et parc d'exposition
+48.4176620288, 3.23753638596,77,,BRAY-SUR-SEINE,77051,Port public de Bray,"Haltes, escales ou ports fluviaux de plaisance"
+48.8095796746, 2.39001807161,94,25 RUE RASPAIL,IVRY-SUR-SEINE,94041,Centre d’art contemporain d’ivry - le crédac,Diffusion de l'art (autre que musée)
+48.8609098712, 2.34254698342,75,52 RUE DE L'ARBRE SEC,Paris,75101,Musée de la presse,Musée et écomusée
+48.8628118268, 2.3428436029,75,2 RUE DE VIARMES,Paris,75101,Bourse du commerce,Site et monument
+48.8642436252, 2.34800850397,75,20 RUE ETIENNE MARCEL,Paris,75102,Tour Jean-sans-Peur,Site et monument
+48.8582507208, 2.36237351322,75,11 RUE PAYENNE - HÔTEL DE MARLE,Paris,75103,Institut Tessin - centre culturel suédois,Musée et écomusée
+48.8529615431, 2.34991335251,75,6 PLACE DU PARVIS ND,Paris,75104,Cathédrale ND de Paris,Site et monument
+48.8513007701, 2.35561764556,75,6 QUAI D'ORLÉANS - BIBLIOTHÈQUE POLONAISE DE Paris,Paris,75104,Musée Adam Mickiewicz,Musée et écomusée
+48.8405579045, 2.34190673523,75,277 BIS RUE Saint-JACQUES - 1 PLACE LAVERAN,Paris,75105,Eglise royale du Val-de-Grace,Site et monument
+48.8495195064, 2.34837580341,75,1 BIS RUE DES CARMES,Paris,75105,Musée des collections historiques de la préfecture de police,Musée et écomusée
+48.8421414685, 2.35622333923,75,57 RUE CUVIER - JARDIN DES PLANTES,Paris,75105,Muséum national d'histoire naturelle -  grande galerie de l'evolution,Musée et écomusée
+48.8513652871, 2.34099615747,75,12 RUE DE L'ECOLE DE MÉDECINE - UNIVERSITÉ RENÉ DESCARTES,Paris,75106,Musée d'histoire de la médecine,Musée et écomusée
+48.8485831711, 2.33401005218,75,19 RUE DE VAUGIRARD - JARDIN DU LUXEMBOURG,Paris,75106,Musée du Luxembourg,Musée et écomusée
+48.8596707984, 2.30518204263,75,92 RUE Saint-DOMINIQUE,Paris,75107,Eglise Saint-Pierre du-Gros-Caillou,Site et monument
+48.8564273285, 2.32763375675,75,PLACE Saint-THOMAS-D'AQUIN,Paris,75107,Eglise Saint-Thomas d'Aquin,Site et monument
+48.8622495811, 2.28182973736,75,1 place du Trocadéro,Paris 16ÈME,0,Théâtre national de Chaillot,Diffusion du spectacle vivant
+48.8382567878, 2.49397219297,94,Place du théâtre,NOGENT-SUR-MARNE,0,La scène Watteau,Diffusion du spectacle vivant
+48.8736689226, 2.2954977352,75,PLACE CHARLES DE GAULLE,Paris,75108,Arc de triomphe,Site et monument
+48.8352668726, 2.40938873075,75,293 AVENUE DAUMESNIL - PALAIS DE LA PORTE DORÉE,Paris,75112,Cité nationale de l'histoire de l'immigration,Musée et écomusée
+48.8285560441, 2.41495275803,75,40 BIS ROUTE CEINTURE DU LAC DAUMESNIL,Paris,75112,Temple Bouddhique - institut international Bouddhique,Site et monument
+48.8350145227, 2.35087292044,75,12 RUE BERBIER DU METZ,Paris,75113,Château de la Reine Blanche,Site et monument
+48.8400498633, 2.37034865574,75,30 QUAI D'AUSTRERLITZ,Paris,75113,Docks en seine : cité de la mode et du design,Musée et écomusée
+48.8392463991, 2.32983988488,75,3 BOULEVARD EDGAR QUINET,Paris,75114,Cimetière du Montparnasse,Site et monument
+48.841390033, 2.31730919801,75,34 BOULEVARD DE VAUGIRARD,Paris,75115,Musée de la poste,Musée et écomusée
+48.8894935017, 2.25218558147,75,BOIS DE BOULOGNE - PARC DE BAGATELLE,Paris,75116,Château de Bagatelle,Site et monument
+48.8389420858, 2.25651757879,75,98 BOULEVARD MURAT - 96 BOULEVARD MURAT,Paris,75116,Eglise Sainte-Jeanne de Chantal,Site et monument
+48.8706262934, 2.27706132569,75,16 RUE DE LA FAISANDERIE,Paris,75116,Musée de la contrefaçon,Musée et écomusée
+48.8527210823, 2.27951608688,75,116 AVENUE DU PRÉSIDENT KENNEDY,Paris,75116,Musée de radio-France,Musée et écomusée
+48.865065778, 2.29349832387,75,6 PLACE D'IÉNA,Paris,75116,Musée national des arts asiatiques Guimet,Musée et écomusée
+48.8679666007, 2.29825112399,75,28 RUE DE CHAILLOT,Paris,75116,Paroisse Saint-Pierre de Chaillot,Site et monument
+48.9268040204, 3.13116631606,77,6 RUE MONTMORIN,JOUARRE,77238,Abbaye de Jouarre - tour romane,Site et monument
+48.6838121455, 1.93584557298,78,DOMAINE DES VAUX-DE-CERNAY,CERNAY-LA-VILLE,78128,Abbaye des Vaux de Cernay,Site et monument
+48.7761514935, 1.80538405071,78,5 RUE MAURICE RAVEL,MONTFORT-L'AMAURY,78420,Maison-musée Maurice Ravel,Musée et écomusée
+48.8043776128, 2.12191428655,78,AVENUE ROCKEFELLER,VERSAILLES,78646,Domaine de Versailles,Site et monument
+48.5297011234, 2.01121429008,91,PLACE DU GÉNÉRAL DE GAULLE,DOURDAN,91200,Château de Dourdan,Site et monument
+48.3990861531, 2.47460633799,91,RUE JEAN MOULIN,MILLY-LA-FORET,91405,Chapelle Saint-Blaise-des-Simples,Site et monument
+48.9107485422, 2.29844099942,92,4 PONT DE CLICHY,ASNIERES-SUR-SEINE,92004,Cimetière des chiens,Site et monument
+48.8985916976, 2.27434664194,92,22 ALLÉE CLAUDE MONET - ILE DE LA JATTE,LEVALLOIS-PERRET,92044,Maison de la pêche et de la nature,Musée et écomusée
+48.8709643386, 2.16021312682,92,229 BIS AVENUE NAPOLÉON BONAPARTE,RUEIL-MALMAISON,92063,Château de la Petite Malmaison,Site et monument
+49.1229952714, 1.70579323674,95,DOMAINE DE VILLARCEAUX,CHAUSSY,95150,Domaine de Villarceaux,Site et monument
+49.1087711263, 1.84987383616,95,PLACE DU Château,GUIRY EN VEXIN,95295,Musée Archéologique du Val d'Oise,Musée et écomusée
+49.065576858, 2.06263766558,95,RUE WILLIAM THORNLEY - Château DE GROUCHY,OSNY,95476,Musée départemental des sapeurs pompiers du Val d'Oise,Musée et écomusée
+49.0507372302, 2.09664642452,95,PLACE DU PETIT MARTROY,PONTOISE,95500,Cathédrale Saint-Maclou,Site et monument
+49.0584477246, 1.94869310617,95,HAMEAU DU PETIT-MESNIL,SAGY,95535,Musée de la moisson - ecomusée du parc naturel régional du vexin fr,Musée et écomusée
+48.8339531627, 2.40317342962,75,"53, AVENUE DE Saint-MAURICE",Paris,75112,Zoo de Vincennes,"Espace de loisirs, espace récréatif"
+48.8439800776, 2.21940877433,92,PARC DE Saint-CLOUD,Saint-CLOUD,92064,Domaine national de Saint-Cloud,Site et monument
+48.1872727341, 2.74501622701,77,22 RUE HOCHE,SOUPPES-SUR-LOING,77458,Parc animalier de l'Emprunt,"Espace de loisirs, espace récréatif"
+48.8726040396, 2.77678043755,77,,SERRIS,77111,Disneyland Paris,"Espace de loisirs, espace récréatif"
+48.9101126559, 2.29835048413,92,,ASNIÈRES SUR SEINE,92004,Escale d'Asnières - parc Robinson,"Haltes, escales ou ports fluviaux de plaisance"
+48.86116125, 2.29294931864,75,,Paris,75116,Escale Debilly - Trocadéro,"Haltes, escales ou ports fluviaux de plaisance"
+48.9048747514, 2.29194609043,92,,CLICHY SUR SEINE,92024,Escale de Clichy,"Haltes, escales ou ports fluviaux de plaisance"
+48.9555702887, 3.02315081171,77,YACHT CLUB DE LA BRIE,CHANGIS-SUR-MARNE,77084,Port du yacht club de la rie,"Haltes, escales ou ports fluviaux de plaisance"
+48.8795015747, 2.36796314549,75,QUAI DE JEMMAPES,Paris,75110,Escale du bassin Louis Blanc,"Haltes, escales ou ports fluviaux de plaisance"
+48.1529673667, 2.7450937761,77,HAMEAU DE NÉRONVILLE,CHATEAU-LANDON,77099,Halte de plaisance de Château-Landon,"Haltes, escales ou ports fluviaux de plaisance"
+49.0308016318, 2.06068411338,95,6 QUAI DE LA TOURELLE,CERGY,95127,Port de Cergy,"Haltes, escales ou ports fluviaux de plaisance"
+48.8758515434, 2.58362994252,77,51 BIS AVENUE DE LA RESISTANCE,CHELLES,77108,,Offices du tourisme et syndicats d'initiative
+48.1768141048, 2.87191970449,77,1 RUE Saint MARTIN,EGREVILLE,77168,,Offices du tourisme et syndicats d'initiative
+48.8670987442, 2.13831989818,78,1 RUE DU GENERAL LECLERC,BOUGIVAL,78092,,Offices du tourisme et syndicats d'initiative
+48.8969055312, 2.09259272187,78,38 RUE AU PAIN,SAINT-GERMAIN-EN-LAYE,78551,,Offices du tourisme et syndicats d'initiative
+48.698127977, 2.50545818962,91,"2, RUE PHILISBOURG",BRUNOY,91114,,Offices du tourisme et syndicats d'initiative
+48.7669594016, 2.27741818717,92,26 RUE DR LE SAVOUREUX,CHATENAY MALABRY,92019,,Offices du tourisme et syndicats d'initiative
+48.9037951641, 2.33848088966,93,7 IMPASSE SIMON,SAINT-OUEN,93070,,Offices du tourisme et syndicats d'initiative
+48.8360287829, 2.52040713375,94,"6 BIS GRANDE RUE CHARLES 
+DE GAULLE",BRY SUR MARNE,94015,,Offices du tourisme et syndicats d'initiative
+48.7663429277, 2.40739574804,94,6 BIS PLACE DE L EGLISE,CHOISY LE ROI,94022,,Offices du tourisme et syndicats d'initiative
+48.8345247857, 2.47289724572,94,"5, AVENUE DE JOINVILLE",NOGENT SUR MARNE,94052,,Offices du tourisme et syndicats d'initiative
+48.8449657759, 2.43476382159,94,28 AVENUE DE Paris,VINCENNES,94080,,Offices du tourisme et syndicats d'initiative
+48.8735306802, 2.33032654015,75,"boulevard Haussmann, 75009 Paris",Paris,75109,Grands Magasins,"Espace de loisirs, espace récréatif"
+48.8675639747, 2.78603920275,77,77777 MARNE-LA-VALLÉE CEDEX 4,MARNE LA VALLÉE,77535,Business solutions - Disneyland® Paris,Centre de congrès et parc d'exposition
+48.8229494567, 2.26979827721,92,25 AVENUE VICTOR CRESSON 92130 ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,92040,LE PALAIS DES CONGRÈS D’ISSY,Centre de congrès et parc d'exposition
+48.868904585, 2.34121371925,75,"28, PLACE DE LA BOURSE, 75002 PARIS",PARIS,75102,PALAIS BRONGNIART,Centre de congrès et parc d'exposition
+49.0388112914, 2.04173044452,95,,CERGY,95127,Axe majeur,Diffusion de l'art (autre que musée)
+48.9106911015, 2.29365132899,92,89 RUE DU CHATEAU,ASNIERES SUR SEINE,92004,Chateau d'Asnieres,Site et monument
+48.8719414131, 2.21752817734,92,123 BD WASHINGTON,SURESNES,92073,Cimetiere Americain,Site et monument
+48.8631159092, 2.33315478294,75,107 RUE DE RIVOLI - LES ARTS DÉCORATIFS,Paris,75101,Musée de la publicité,Musée et écomusée
+48.8523575018, 2.35204827836,75,SQUARE DE L'ILE-DE-FRANCE,Paris,75104,Mémorial des martyrs de la déportation,Site et monument
+48.8432910609, 2.35827319799,75,57 RUE CUVIER - MUSÉUM NATIONAL D'HISTOIRE NATURELLE,Paris,75105,Serres du jardin des plantes,"Espace de loisirs, espace récréatif"
+48.8470794303, 2.31755279658,75,137 RUE DE SÈVRES,Paris,75106,Fondation Dubuffet,Musée et écomusée
+48.8662064087, 2.3108749507,75,AVENUE FRANKLIN D. ROOSEVELT,Paris,75108,Palais de la découverte,Musée et écomusée
+48.8289534313, 2.38165408171,75,RUE FRANÇOISE DOLTO - QUAI PANHARD ET LEVASSOR,Paris,75113,Halle aux farines des grands moulins de Paris,Site et monument
+48.8419190836, 2.32157805598,75,33 AVENUE DU MAINE,Paris,75115,Tour Montparnasse,Site et monument
+48.8592835893, 2.28519370551,75,8 RUE BENJAMIN FRANKLIN,Paris,75116,Musée Clémenceau,Musée et écomusée
+48.8477788879, 2.25123607037,75,2 AVENUE GORDON-BENNETT - STADE ROLAND-GARROS,Paris,75116,Tenniseum Roland-Garros,Musée et écomusée
+48.8965419012, 2.31367781162,75,8 RUE Saint JUST,Paris,75117,Cimetière des Batignolles,Site et monument
+48.8854551141, 2.33110433338,75,20 AVENUE RACHEL,Paris,75118,Cimetière de Montmartre,Site et monument
+48.8968792206, 2.38366673355,75,QUAI DE LA CHARENTE,Paris,75119,Port du pont de Flandres,Site et monument
+48.2655473342, 2.69710290359,77,RUE GAUTHIER 1ER,NEMOURS,77333,Château musée municipal de Nemours,Site et monument
+48.5610891966, 3.295237813,77,RUE Saint-THIBAUD (SOUS L'HÔTEL DIEU),PROVINS,77379,Souterrains,Site et monument
+48.9924668496, 2.09570232377,78,PLACE JULES GÉVELOT - Château DU PRIEURÉ,CONFLANS-SAINTE-HONORINE,78172,Musée de la Batellerie,Musée et écomusée
+48.7689463533, 2.06223687628,78,AVENUE DE L'EUROPE,GUYANCOURT,78297,Usine Thalès,Site et monument
+48.8043446628, 2.12779721103,78,GRANDE ÉCURIE DU Château DE VERSAILLES - AVENUE ROCKFELLER,VERSAILLES,78646,Académie du spectacle equestre,Musée et écomusée
+48.8923054204, 2.2363449013,92,35E ÉTAGE - PAROI NORD,Paris-LA DEFENSE,92062,Grande Arche de la Défense,Site et monument
+48.8073870741, 2.52526866501,94,88 AVENUE MARX DORMOY - PARC VERCORS,CHAMPIGNY-SUR-MARNE,94017,Musée de la résistance nationale,Musée et écomusée
+48.8332795804, 2.47505053159,94,12 AVENUE VICTOR HUGO,NOGENT-SUR-MARNE,94052,Pavillon Baltard,Site et monument
+49.0486487106, 2.10018264887,95,17 RUE DU CHATEAU,PONTOISE,95500,Musée Camille Pissaro,Musée et écomusée
+49.081118473, 1.62805292828,95,1 RUE DE L'AUDIENCE,LA ROCHE-GUYON,95523,Château de la Roche-Guyon,Site et monument
+49.0737749354, 2.17782959454,95,52 RUE DU GENERAL DE GAULLE,AUVERS-SUR-OISE,95039,Auberge Ravoux dite maison de Van Gogh,Musée et écomusée
+48.8908772991, 2.39085443882,75,"30, AVENUE CORENTIN-CARIOU",Paris,75119,La Villette,Musée et écomusée
+48.8524362202, 2.78417066301,77,3 COURS DE LA GARONNE,SERRIS,77449,Vallee Village,"Espace de loisirs, espace récréatif"
+48.7994139839, 1.76408752115,78,"1, AVENUE DES PLATANES",LA QUEUE-LEZ-YVELINES,78513,Serre aux Papillons,"Espace de loisirs, espace récréatif"
+48.4265659583, 2.16097168091,91,"5, AVENUE CHARLES-DE-GAULLE",ETAMPES,91223,Ile de loisirs d'Etampes,"Espace de loisirs, espace récréatif"
+49.0309724221, 2.04739741079,95,RUE DES ETANGS,CERGY-PONTOISE,95127,Ile de loisirs de Cergy Pontoise,"Espace de loisirs, espace récréatif"
+48.9111027873, 2.7229082705,77,JABLINES,JABLINES,77234,Ile de loisirs de Jablines,"Espace de loisirs, espace récréatif"
+48.8552239187, 2.78370419792,77,14 COURS DU DANUBE,SERRIS,77449,Sealife,"Espace de loisirs, espace récréatif"
+48.7568445885, 2.35859397347,94,MARCHÉ D'INTERET NATIONAL DE Paris-RUNGIS,RUNGIS,94065,M.i.n de Rungis,Site et monument
+48.8779139491, 2.33454848356,75,14 RUE DE LA ROCHEFOUCAULD,Paris,75109,Musée national Gustave Moreau,Musée et écomusée
+48.531833987, 2.64120759154,77,ESCALE DU MÉE,MÉE-SUR-SEINE (LE),77285,Escale du Mée,"Haltes, escales ou ports fluviaux de plaisance"
+48.8518048367, 2.35026132589,75,NOTRE DAME,Paris,75105,Escale Montebello Notre Dame,"Haltes, escales ou ports fluviaux de plaisance"
+48.8155802529, 2.41089362868,94,,ALFORTVILLE,94002,Escale Alfortville - Chinagora,"Haltes, escales ou ports fluviaux de plaisance"
+48.6085073491, 2.48861185165,91,,CORBEIL,91174,"Escale Corbeil, Saint-Nicolas","Haltes, escales ou ports fluviaux de plaisance"
+48.7055379866, 2.40160899274,91,"FACE AU 33, QUAI DE L'INDUSTRIE",ATHIS-MONS,91027,Port d'Athis-Mons,"Haltes, escales ou ports fluviaux de plaisance"
+48.8959098204, 2.38405676063,75,QUAI DE LA CHARENTE,Paris,75119,Escale du parc de la Villette,"Haltes, escales ou ports fluviaux de plaisance"
+48.9385766979, 2.75680722604,77,,FRESNES-SUR-MARNE,77196,Halte de Fresnes-sur-Marne,"Haltes, escales ou ports fluviaux de plaisance"
+49.0060025094, 2.91742754985,77,,VARREDDES,77483,Halte de Varreddes,"Haltes, escales ou ports fluviaux de plaisance"
+48.9281401932, 2.02509455792,78,27 AVENUE DE L'ILE DE MIGNEAUX,POISSY,78498,Port chantier de l'iIe de Migneaux,"Haltes, escales ou ports fluviaux de plaisance"
+48.9261620993, 3.13055342547,77,1 RUE DE LA TOUR,JOUARRE,77238,,Offices du tourisme et syndicats d'initiative
+48.8802162641, 2.70478855987,77,2 RUE DU CHEMIN DE FER,LAGNY SUR MARNE,77243,,Offices du tourisme et syndicats d'initiative
+48.3862965218, 2.95741659791,77,10 RUE JEAN JAURES,MONTEREAU FAUT YONNE,77305,,Offices du tourisme et syndicats d'initiative
+48.9913875534, 2.09137875128,78,1 RUE RENE ALBERT,CONFLANS SAINTE-HONORINE,78172,,Offices du tourisme et syndicats d'initiative
+48.5874060317, 2.25038171494,91,22 BOULEVARD ABEL CORNATON,ARPAJON,91021,,Offices du tourisme et syndicats d'initiative
+48.7296619199, 2.27545416748,91,4 BIS RUE DE LA DIVISION LECLERC,MASSY,91377,,Offices du tourisme et syndicats d'initiative
+48.8811388986, 2.18391833477,92,118 AVENUE PAUL DOUMER,RUEIL MALMAISON,92063,,Offices du tourisme et syndicats d'initiative
+49.1121873966, 2.42304762291,95,"6, RUE Saint DAMIEN",LUZARCHES,95352,,Offices du tourisme et syndicats d'initiative
+49.0469716755, 2.09961764127,95,PLACE DE LA PISCINE,PONTOISE,95500,,Offices du tourisme et syndicats d'initiative
+49.0144110887, 2.54180938943,77,AEROPORT CDG - TERMINAL 1,MAUREGARD,77282,,Offices du tourisme et syndicats d'initiative
+49.0032977461, 2.5769653792,77,AEROPORT CDG - TERMINAL 2E,LE MESNIL-AMELOT,77291,,Offices du tourisme et syndicats d'initiative
+48.8753824277, 2.32693521716,75,109 rue Saint-Lazare,Paris,75109,Passage du Havres - Saint lLazare,"Espace de loisirs, espace récréatif"
+48.8909349387, 2.23775378207,92,15 parvis de la Défnese,Paris la Défense,92026,Les 4 temps,"Espace de loisirs, espace récréatif"
+48.8621999267, 2.28737731819,75,17 PLACE DU TROCADERO,PARIS,75116,Musée de l'Homme,Musée et écomusée
+48.848641784, 2.35048283555,75,"24, RUE SAINT VICTOR, 75005 PARIS",PARIS,75105,MAISON DE LA MUTUALITÉ,Centre de congrès et parc d'exposition
+48.8601580759, 2.31678578061,75,"28, RUE SAINT DOMINIQUE, 75007 PARIS",PARIS,75107,MAISON DE LA CHIMIE,Centre de congrès et parc d'exposition
+48.8776171725, 2.38547576765,75,PLACE HANNAH ARENDT,Paris 19EME,75119,Le Plateau,Diffusion de l'art (autre que musée)
+48.8717144915, 2.30022833431,75,60 RUE DE BASSANO,Paris 8EME,75108,Espace culturel Louis Vuitton,Diffusion de l'art (autre que musée)
+48.8678681149, 2.33803468332,75,58 RUE DE RICHELIEU,Paris 2EME,75102,"Bibliothèque nationale de france, site Richelieu, bnf",Site et monument
+48.8523648083, 2.32797502761,75,6 RUE RECAMIER,Paris 7EME,75107,Espace Electra - fondation electricité de France,Diffusion de l'art (autre que musée)
+48.8368033476, 2.32179954571,75,2 IMPASSE LEBOUIS,Paris 14EME,75114,Fondation Henri Cartier-Bresson,Diffusion de l'art (autre que musée)
+48.890265432, 2.36839207401,75,104 RUE D'AUBERVILLIERS,Paris 19EME,75119,Le 104 centquatre,Diffusion de l'art (autre que musée)
+48.8653880606, 2.33268465964,75,296 RUE Saint-HONORÉ,Paris,75101,Eglise Saint-Roch,Site et monument
+48.8632207869, 2.33292713334,75,107 RUE DE RIVOLI,Paris,75101,Musee des arts décoratifs,Musée et écomusée
+48.8564294607, 2.35254621419,75,29 RUE DE RIVOLI - HÔTEL DE VILLE,Paris,75101,Hôtel de ville de Paris,Site et monument
+48.8580064171, 2.35513361681,75,24 RUE DES ARCHIVES,Paris,75104,Temple des Billettes,Site et monument
+48.8560170495, 2.36048814163,75,10 RUE PAVÉE,Paris,75104,Synagogue de la rue Pavée,Site et monument
+48.8489629605, 2.35742396222,75,1 RUE DES FOSSÉS-Saint-BERNARD - PLACE MOHAMMED-V,Paris,75105,Institut du monde Arabe,Site et monument
+48.8507322897, 2.35186517547,75,47 QUAI DE LA TOURNELLE - HÔTEL DE MIRAMION,Paris,75105,Musée de l'assistance publique - hôpitaux de Paris,Musée et écomusée
+48.843149357, 2.3628746965,75,2 RUE BUFFON,Paris,75105,Galerie de paléontologie et d'anatomie,Musée et écomusée
+48.8533791718, 2.34697251954,75,"ACCÈS : QUAI Saint MICHEL, QUAI DU MARCHÉ NEUF",Paris,75105,Petit pont,Site et monument
+48.8571392746, 2.33738036018,75,23 QUAI CONTI,Paris,75106,Institut de France,Musée et écomusée
+48.8538244993, 2.33000289875,75,54 RUE DES SaintS-PÈRES,Paris,75107,Bibliothèque de la societe de l'histoire du protestantisme francais,Musée et écomusée
+48.85083539, 2.32293221505,75,140 RUE DU BAC,Paris,75107,Chapelle ND de la médaille miraculeuse,Site et monument
+48.8555771675, 2.31258928216,75,129 RUE DE GRENELLE - HOTEL NATIONAL DES INVALIDES,Paris,75107,Cathédrale Saint-Louis des invalides,Site et monument
+48.8576639388, 2.31285057757,75,129 RUE DE GRENELLE - ESPLANADE DES INVALIDES,Paris,75107,Hôtel national des Invalides,Site et monument
+48.8539091167, 2.32812386156,75,31 RUE Saint-GUILLAUME,Paris,75107,Maison de Verre,Musée et écomusée
+48.8403712504, 2.37982180921,75,8 boulevard de Bercy,Paris 12ÈME,0,Palais omnisport de Paris Bercy,Diffusion du spectacle vivant
+48.8716033061, 2.33047528573,75,8 rue Scribe,Paris 9ÈME,0,Opéra national de Paris - palais Garnier,Diffusion du spectacle vivant
+48.8578733005, 2.29505953467,75,CHAMP DE MARS,Paris,75107,Tour Eiffel,Site et monument
+48.8794711877, 2.31253545601,75,7 AVENUE VÉLASQUEZ - MUSÉE DES ARTS DE L'ASIE DE Paris,Paris,75108,Musée Cernuschi,Musée et écomusée
+48.8773147503, 2.33141154518,75,3 RUE DE LA TRINITÉ - PLACE ESTIENNE-D'ORVES,Paris,75109,Eglise de la Sainte Trinite,Site et monument
+48.8473756819, 2.26915122342,75,2 PLACE D'AUTEUIL - 1 RUE COROT,Paris,75116,Eglise de ND-d'Auteuil,Site et monument
+48.8657625162, 2.29613868685,75,10 AVENUE PIERRE 1ER DE SERBIE,Paris,75116,Musée Galliera - musée de la mode de la ville de Paris,Musée et écomusée
+48.8634435239, 2.28691763652,75,1 PLACE DU TROCADÉRO ET DU 11 NOVEMBRE - PALAIS DE CHAILLOT,Paris,75116,Musée national des monuments français,Musée et écomusée
+48.890721135, 2.39585164733,75,211 AVENUE JEAN-JAURÈS - EPPGHV,Paris,75119,Parc de la Villette,"Espace de loisirs, espace récréatif"
+48.5668776079, 2.78026464632,77,PLACE DES TOURS,BLANDY,77034,Château de Blandy-les-Tours,Site et monument
+48.8241839986, 3.09433065202,77,AVENUE FOCH,COULOMMIERS,77131,Commanderie des templiers,Site et monument
+49.0907233175, 3.07443724803,77,SYNDICAT D'INITIATIVE - MAIRIE,CROUY-SUR-OURCQ,77148,Donjon du Houssoy,Site et monument
+48.9604232247, 2.87848974969,77,5 PLACE DU GÉNÉRAL DE GAULLE - ANCIEN PALAIS EPISCOPAL,MEAUX,77284,Musée Bossuet,Musée et écomusée
+48.5607214131, 3.29169272626,77,PLACE ST QUIRIACE,PROVINS,77379,Collégiale Saint-Quiriace,Site et monument
+48.530685601, 1.96239569705,78,1 RUE LEGAIGNEUR - MANOIR DE SaintE-MESME,SAINTE-MESME,78569,Musée du costume militaire,Musée et écomusée
+48.7990594686, 2.14454591849,78,73 AVENUE DE Paris,VERSAILLES,78646,Domaine de madame elisabeth,Site et monument
+48.8168514402, 2.14159176646,78,36 RUE DU PARC DE CLAGNY,VERSAILLES,78646,Osmothèque la mémoire vivante des parfums,Musée et écomusée
+48.8837887399, 2.10471874698,78,PAVILLON D'ACCUEIL,LE PORT-MARLY,78502,Château de Monte-Cristo,Site et monument
+48.4411819285, 2.46929055632,91,RUE DU Château,COURANCES,91180,Château de Courances,Site et monument
+48.8034452391, 2.24414218637,92,21 RUE DES CHÂTAIGNIERS,CLAMART,92023,Fondation Arp,Musée et écomusée
+48.9323566533, 2.35580537943,93,22 BIS RUE GABRIEL PÉRI,SAINT-DENIS,93066,Musée d’art et d’histoire,Musée et écomusée
+48.8444147286, 2.43621464893,94,53 BIS RUE FONTENAY,VINCENNES,94080,Château de Vincennes,Site et monument
+48.7926680646, 2.38685258398,94,PLACE DE LA LIBÉRATION - CARREFOUR DE LA LIBÉRATION,VITRY-SUR-SEINE,94081,Musée d'art contemporain Val-de-Marne - MAC VAL,Musée et écomusée
+49.0717550959, 2.16791085017,95,44 RUE CALLÉ,AUVERS-SUR-OISE,95039,Musée de l'absinthe,Musée et écomusée
+49.0450167203, 2.10885265852,95,2 PLACE DES ÉCOLES,Saint-OUEN-L'AUMONE,95572,Musée de l'education,Musée et écomusée
+49.0722052183, 2.16825569674,95,RUE DE LÉRY - BP 21,AUVERS-SUR-OISE,95039,Château d'Auvers,Site et monument
+48.8661712849, 2.31313852744,75,AVENUE WINSTON CHURCHILL,Paris,75108,Grand Palais,Site et monument
+48.6957856787, 2.4001105937,91,RUE DU PORT AUX CERISES,DRAVEIL,91201,Ile de loisirs du port aux Cerises,"Espace de loisirs, espace récréatif"
+48.8513487777, 2.60491313154,77,31 RUE DE Paris,CHAMPS-SUR-MARNE,77083,Les jardins du Château de Champs-sur-Marne,"Espace de loisirs, espace récréatif"
+48.2941490204, 2.43950495484,77,"73, RUE DES ROCHES",BUTHIERS,77060,Ile de loisirs de Buthiers,"Espace de loisirs, espace récréatif"
+48.4099438747, 2.6339533712,77,"FANCHARD, FORÊT DE FONTAINEBLEAU",FONTAINEBLEAU,77186,Centre d'écotourisme,Musée et écomusée
+48.8475558243, 2.23239430994,92,14 RUE DE L'ABREUVOIR,BOULOGNE-BILLANCOURT,92012,Musée Paul-Belmondo,Musée et écomusée
+48.8591107655, 2.1056760997,78,LA GRILLE ROYALE - PARC DE MARLY,LOUVECIENNES,78350,Musée promenade,Musée et écomusée
+48.83864567, 2.21858063783,92,DOMAINE NATIONAL DE Saint-CLOUD,Saint-CLOUD,92064,Musée historique du domaine national de Saint-cloud,Musée et écomusée
+49.0444053871, 1.66031700396,78,ESCALE DE MOUSSEAUX,MOUSSEAUX-SUR-SEINE,78437,Escale de Mousseaux,"Haltes, escales ou ports fluviaux de plaisance"
+48.4344078186, 2.74410382728,77,ESCALE DE HERICY,HÉRICY,77226,Escale de Hericy,"Haltes, escales ou ports fluviaux de plaisance"
+48.8532597248, 2.2858180504,75,"2, QUAI DE GRENELLE",Paris,75115,Escale de Grenelle,"Haltes, escales ou ports fluviaux de plaisance"
+48.8602131433, 2.33148312279,75,ESCALE DU LOUVRE,Paris,75101,Escale du Louvre,"Haltes, escales ou ports fluviaux de plaisance"
+48.8642887539, 2.31529853054,75,PORT DES CHAMPS ELYSÉES,Paris,75108,Escale des Champs-Elysées,"Haltes, escales ou ports fluviaux de plaisance"
+48.8581794348, 2.33629786159,75,Saint GERMAIN DES PRÈS,Paris,75105,Escale des Saints-Pères Saint-Germain-des-Près,"Haltes, escales ou ports fluviaux de plaisance"
+48.8598642889, 2.29293085689,75,,Paris,75107,Escale la Bourdonnais - tour Eiffel,"Haltes, escales ou ports fluviaux de plaisance"
+49.0490928718, 2.10498649913,95,"36, RUE DU GÉNÉRAL LECLERC",Saint-OUEN-L'AUMONE,95572,"Saint-Ouen l'Aumone, halte nautique","Haltes, escales ou ports fluviaux de plaisance"
+49.1305232696, 2.23741307472,95,"16, AVENUE ELIE BAYLAC",CHAMPAGNE-SUR-OISE,95134,Halte nautique - Champagne -sur-oise,"Haltes, escales ou ports fluviaux de plaisance"
+48.8985686506, 2.7702287879,77,CLUB NAUTIQUE DU PLAN D'EAU (PORT PRIVÉ),CHALIFERT,77075,Port du club nautique,"Haltes, escales ou ports fluviaux de plaisance"
+48.9517807614, 3.13466798681,77,HALTE DE LA FERTÉ-SOUS-JOUARRE,LA FERTE-SOUS-JOUARRE,77183,Halte de la Ferté-sous-Jouarre,"Haltes, escales ou ports fluviaux de plaisance"
+48.8847395923, 2.37362676064,75,30 QUAI DE LA LOIRE,Paris,75119,Escale du bassin de la Villette,"Haltes, escales ou ports fluviaux de plaisance"
+48.4839447223, 2.70913907972,77,PORT DE CHARTRETTES,CHARTRETTES,77096,Port du club nautique,"Haltes, escales ou ports fluviaux de plaisance"
+49.0895759702, 3.05701651208,77,,CROUY-SUR-OURCQ,77148,Halte de Crouy -sur-Ourcq,"Haltes, escales ou ports fluviaux de plaisance"
+48.9572721514, 2.87190231017,77,,MEAUX,77284,Halte de Meaux-Saint-Remy,"Haltes, escales ou ports fluviaux de plaisance"
+48.1973411734, 2.71709197093,77,67 AVENUE MARÉCHAL LECLERC,SOUPPES-SUR-LOING,77458,"Le port aux pierre, vallée du Loing","Haltes, escales ou ports fluviaux de plaisance"
+48.88793075, 2.16247827347,78,ILE DES IMPRESSIONNISTES,CHATOU,78146,Halte de plaisance de Chatou,"Haltes, escales ou ports fluviaux de plaisance"
+49.0203172051, 2.08855609566,95,65 CHEMIN DU HALAGE,ERAGNY,95218,Halte de Carpentrie,"Haltes, escales ou ports fluviaux de plaisance"
+48.7796746957, 3.30409536236,77,35 RUE DES PROMENADES,LA FERTE GAUCHER,77182,,Offices du tourisme et syndicats d'initiative
+48.9457363963, 2.1449645096,78,41 AVENUE DE LONGUEIL,MAISONS LAFFITTE,78358,,Offices du tourisme et syndicats d'initiative
+48.789166067, 1.59917581806,78,4 PLACE DE LA TOUR HOUDAN,HOUDAN,78310,,Offices du tourisme et syndicats d'initiative
+48.7060653175, 2.45558429026,91,64 AVENUE DE LA REPUBLIQUE,MONTGERON,91421,,Offices du tourisme et syndicats d'initiative
+48.9359236805, 2.35751007414,93,"1, RUE DE LA REPUBLIQUE",SAINT-DENIS,93066,,Offices du tourisme et syndicats d'initiative
+48.812630994, 2.50955663416,94,21 RUE JOSEPHINE DE BEAUHARNAIS,CHAMPIGNY SUR MARNE,94017,,Offices du tourisme et syndicats d'initiative
+49.113739606, 2.20905016192,95,"MAIRIE DE PARMAIN, AVENUE GEORGES CLEMENCEAU",PARMAIN,95480,,Offices du tourisme et syndicats d'initiative
+49.0042349272, 2.52069680796,95,"6, ALLEE DU VERGER",ROISSY EN FRANCE,95527,,Offices du tourisme et syndicats d'initiative
+48.802117115, 2.12873126982,78,"2 BIS, AVENUE DE Paris",VERSAILLES,78646,,Offices du tourisme et syndicats d'initiative
+48.8297624498, 2.40711145359,75,Pelouse de Reuilly,Paris,75112,Foire du Trône,"Espace de loisirs, espace récréatif"
+49.0475092159, 2.08189149811,95,25 route de Menandon,PONTOISE,95500,Gopark,"Espace de loisirs, espace récréatif"
+48.8511045771, 2.32440553928,75,"24, rue de Sèvres",Paris,75107,Le Bon Marché,"Espace de loisirs, espace récréatif"
+48.8357440014, 2.44472603762,75,"ESPLANADE DU CHÂTEAU DE VINCENNES, 75012 PARIS",PARIS,75112,PARC FLORAL DE PARIS,Centre de congrès et parc d'exposition
+48.7432328431, 2.35726623352,94,"47, RUE DES SOLETS, PARC SILIC, 94533 RUNGIS CEDEX",RUNGIS,94065,ESPACE JEAN MONET,Centre de congrès et parc d'exposition
+48.8328988204, 2.3964137495,75,"327, RUE DE CHARENTON, 75012 PARIS",PARIS,75112,ESPACE CHARENTON,Centre de congrès et parc d'exposition
+48.3730545823, 2.81645193612,77,MOULIN PROVENCHER,MORET-SUR-LOING,77316,Musee du sucre d'Orge des religieuses,Musée et écomusée
+48.7569458947, 2.20061263929,91,45 RUE DE VAUBOYEN,BIEVRES,91064,Maison Victor Hugo,Musée et écomusée
+48.8633688468, 2.34519757481,75,2 IMPASSE Saint-EUSTACHE,Paris,75101,Eglise Saint-Eustache,Site et monument
+48.8696520464, 2.32837994002,75,39 BOULEVARD DES CAPUCINES,Paris,75102,Théâtre musée des Capucines,Musée et écomusée
+48.8614659379, 2.35378884309,75,22 RUE BEAUBOURG - IMPASSE BERTHAUD,Paris,75103,Musée de la poupée - Paris,Musée et écomusée
+48.8598518171, 2.36209862826,75,5 RUE DE THORIGNY - HÔTEL SALÉ,Paris,75103,Musée national Picasso,Musée et écomusée
+48.853154113, 2.36120107747,75,11 RUE Saint-PAUL,Paris,75104,Musée de la magie,Musée et écomusée
+48.8532570272, 2.35034792672,75,10 RUE DU CLOÎTRE ND,Paris,75104,Musée de ND de Paris,Musée et écomusée
+48.8511816696, 2.36386477211,75,18 BOULEVARD HENRI IV - QUARTIER DES CÉLESTINS,Paris,75104,Salle d'honneur et de traditions de la garde républicaine,Site et monument
+48.8520988497, 2.34569246154,75,1 RUE DES PRÊTRES-Saint-SÉVERIN,Paris,75105,Eglise Saint-Séverin,Site et monument
+48.852227465, 2.33500002011,75,10 RUE MABILLON,Paris,75106,Musée-librairie du compagnonnage,Musée et écomusée
+48.8547313866, 2.32485907931,75,59-61 RUE DE GRENELLE - FONDATION DINA VIERNY,Paris,75107,Musée Maillol,Musée et écomusée
+48.8700480727, 2.32444109286,75,14 RUE DE SURÈNE - PLACE DE LA MADELEINE,Paris,75108,Eglise de la Madeleine,Site et monument
+48.8666405366, 2.32239743756,75,1 PLACE DE LA CONCORDE,Paris,75108,Jeu de paume - site Concorde,Site et monument
+48.871875622, 2.33119663329,75,PLACE DE L'OPÉRA,Paris,75109,Musée de l'opéra national,Musée et écomusée
+48.8586044431, 2.38219406813,75,7 RUE PACHE,Paris,75111,Musée du fumeur,Musée et écomusée
+48.8339909424, 2.33185988329,75,1 AVENUE DU COLONEL HENRI ROL-TANGUY,Paris,75114,Catacombes de Paris,Musée et écomusée
+48.8437123959, 2.32069963211,75,21 AVENUE DU MAINE,Paris,75115,Musée du montparnasse,Musée et écomusée
+48.8629332145, 2.28900955689,75,PALAIS DE CHAILLOT - ACCÈS PIÉTONS : 7 AVENUE ALBERT DE MUN,Paris,75116,Cité de l'architecture et du patrimoine,Musée et écomusée
+48.8562755366, 2.27990766529,75,4/10 RUE DE L'ANNONCIATION,Paris,75116,Eglise de ND-de-grace-de-Passy,Site et monument
+48.8657334144, 2.29893053513,75,3 RUE LÉONCE REYNAUD,Paris,75116,Fondation Pierre Bergé - Yves Saint-Laurent,Musée et écomusée
+48.8718023424, 2.28798648192,75,35 BIS RUE PAUL VALÉRY,Paris,75116,Musée Dapper,Musée et écomusée
+48.883716723, 2.33370382541,75,72 BOULEVARD DE CLICHY,Paris,75118,Musée de l'erotisme,Musée et écomusée
+48.4012209182, 2.7032561885,77,PLACE D'ARMES,FONTAINEBLEAU,77186,Château de Fontainebleau,Site et monument
+48.5620417518, 3.28503375151,77,Saint JEAN,PROVINS,77379,Grange aux Dîmes,Site et monument
+48.9080048527, 3.18214971857,77,17 AVENUE DE LA FERTÉ-SOUS-JOUARRE,Saint-CYR-SUR-MORIN,77405,Musée des pays de seine-et-marne,Musée et écomusée
+48.1633797543, 2.75085058857,77,RUE ANTOINE HEROËT,SOUPPES-SUR-LOING,77458,Abbaye royale ND de Cercanceaux,Site et monument
+48.6801622903, 2.02300790245,78,CHOISEL,CHOISEL,78160,Château de Breteuil,Site et monument
+48.7643342542, 2.08126607639,78,1 PLACE GEORGES BESSE - HALL DE RÉCEPTION À L’AVANCÉE – NIVEAU,GUYANCOURT,78297,Technocentre Renault,Site et monument
+48.7692485518, 2.15161582986,78,54 RUE CHARLES DE GAULLE - Château DE L'EGLANTINE,JOUY-EN-JOSAS,78322,Musée de la toile de Jouy,Musée et écomusée
+48.9239395723, 2.0288263499,78,82 RUE DE VILLIERS - CENTRE DES MONUMENTS NATIONAUX,POISSY,78498,Villa Savoye,Site et monument
+48.6001799891, 2.1470268966,91,DOMAINE DE COURSON,COURSON-MONTELOUP,91186,Domaine de Courson,Site et monument
+48.6307113769, 2.34356847921,91,8 RUE LÉO LAGRANGE,SaintE-GENEVIEVE-DES-BOIS,91549,Cimetière et église orthodoxe russe ND-de-l'assomption,Site et monument
+48.8358875725, 2.2392811026,92,28 AVENUE ANDRÉ MORIZET - ESPACE LANDOWSKI,BOULOGNE-BILLANCOURT,92012,Musée des années 30,Musée et écomusée
+48.8287814591, 2.22349452498,92,PLACE DE LA MANUFACTURE,SEVRES,92072,Musée national de la céramique,Musée et écomusée
+48.8603466177, 1.78840413503,78,,THOIRY,78616,Zoo et parc de Thoiry,"Espace de loisirs, espace récréatif"
+49.140728372, 2.60084404939,60,,PLAILLY,60494,Parc Asterix,"Espace de loisirs, espace récréatif"
+49.0176216885, 2.3763127188,95,RUE JEAN BULLANT,ECOUEN,95205,Château d'Ecouen - musée la Renaissance,Musée et écomusée
+48.8545334589, 2.33571598404,75,6 RUE DE FURSTENBERG,Paris,75106,Musée national Eugène Delacroix,Musée et écomusée
+48.6460330307, 1.82399816424,78,4 PLACE JEANNE D'ARC,RAMBOUILLET,78517,Musée Rambolitrain,Musée et écomusée
+48.8345475211, 2.38017930135,75,ESCALE DE BERCY,Paris,75112,Escale de Bercy,"Haltes, escales ou ports fluviaux de plaisance"
+48.8552931969, 2.28721391156,75,ESCALE DE L'ÎLE-AUX-CYGNES,Paris,75116,Escale de l'ïle-aux-Cygnes Bir-Hakeim,"Haltes, escales ou ports fluviaux de plaisance"
+48.8212117949, 2.39566801447,94,ESCALE D'IVRY,IVRY SUR SEINE,94041,Escale d'Ivry,"Haltes, escales ou ports fluviaux de plaisance"
+48.8275214759, 2.22649863934,92,,SÈVRES,92072,Escale de Sèvres,"Haltes, escales ou ports fluviaux de plaisance"
+48.5882464896, 2.48656674579,91,"138, ROUTE DE MORSANG",SaintRY-SUR-SEINE,91577,Port de Saintry,"Haltes, escales ou ports fluviaux de plaisance"
+48.199652005, 2.71674483121,77,HALTE DE LA MADELEINE-SUR-LOING,MADELEINE-SUR-LOING (LA),77267,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+48.8801745444, 2.70265367038,77,1 QUAI SAVARIN,LAGNY-SUR-MARNE,77243,Halte de Lagny-sur-Marne,"Haltes, escales ou ports fluviaux de plaisance"
+48.956676539, 2.88093949141,77,QUAI SADI CARNOT,MEAUX,77284,Halte fluviale de Meaux,"Haltes, escales ou ports fluviaux de plaisance"
+48.451178458, 2.74932671914,77,PLACE DE LA RÉPUBLIQUE,SAMOIS-SUR-SEINE,77441,Halte de Samois,"Haltes, escales ou ports fluviaux de plaisance"
+48.9333354957, 2.81697953895,77,,VIGNELY,77498,Halte  de Vignely,"Haltes, escales ou ports fluviaux de plaisance"
+48.9930938957, 1.98383158748,78,CHEMIN DE LA FONTAINE DES,VAUX-SUR-SEINE,78638,Port de détroit marine,"Haltes, escales ou ports fluviaux de plaisance"
+48.4447393823, 2.6026913504,77,PLACE MARC JACQUET,BARBIZON,77022,,Offices du tourisme et syndicats d'initiative
+48.8566857933, 2.90990356926,77,1 PLACE DU MARCHE,CRECY LA CHAPELLE,77142,,Offices du tourisme et syndicats d'initiative
+48.6451738205, 1.81895336958,78,PLACE DE LA LIBERATION,RAMBOUILLET,78517,,Offices du tourisme et syndicats d'initiative
+48.9027319054, 2.30647795739,92,61 RUE MARTRE,CLICHY,92024,,Offices du tourisme et syndicats d'initiative
+49.0709321683, 2.17136602835,95,"MANOIR DES COLOMBIERES, RUE DE LA SANSONNE",AUVERS SUR OISE,95039,,Offices du tourisme et syndicats d'initiative
+49.0770954959, 2.20362399656,95,2 4 PLACE JEAN GABIN,MERIEL,95392,,Offices du tourisme et syndicats d'initiative
+48.8717683483, 2.33880993115,75,5 bd Italiens,Paris,75102,La tete dans les nuages,"Espace de loisirs, espace récréatif"
+48.5447401795, 2.6527603943,77,8 RUE EMILE LECLERC,MELUN,77288,Musée de la gendarmerie,Musée et écomusée
+48.8866684112, 2.28903221031,75,"PLACE DE LA PORTE DE CHAMPERRET, 75017 PARIS",PARIS,75117,ESPACE CHAMPERRET,Centre de congrès et parc d'exposition
+48.8769825615, 2.29707917407,75,"39 - 41 AVENUE DE WAGRAM, 75017 PARIS",PARIS,75117,SALLE WAGRAM - EUROSITES,Centre de congrès et parc d'exposition
+48.8474054959, 2.3673512656,75,10 BOULEVARD DE LA BASTILLE,Paris 12EME,75112,La maison Rouge - fondation Antoine de Galbert,Diffusion de l'art (autre que musée)
+48.8375724262, 2.33124485448,75,261 BOULEVARD RASPAIL,Paris 14EME,75114,Fondation Cartier pour l'art contemporain,Diffusion de l'art (autre que musée)
+48.97282514, 2.90481290883,77,RUE LAZARE PONTICELLI,MEAUX,77284,Musee de la Grande Guerre,Musée et écomusée
+48.910373881, 2.33185734025,93,33 BD VICTOR HUGO,SAINT-OUEN,93070,Musee Pierre Cardin,Musée et écomusée
+48.8600381167, 2.35696359913,75,60 RUE DES FRANCS-BOURGEOIS - HÔTEL DE SOUBISE,Paris,75103,Archives nationales - musée de l'histoire de france,Musée et écomusée
+48.8548080264, 2.36606218083,75,6 PLACE DES VOSGES - HÔTEL DE ROHAN-GUÉMÉNÉE,Paris,75104,Maison de Victor Hugo,Musée et écomusée
+48.8465109734, 2.3481324763,75,1 PLACE SaintE GENEVIÈVE,Paris,75105,Eglise Saint-Etienne-du-Mont,Site et monument
+48.8510117641, 2.33486043426,75,2 RUE PALATINE,Paris,75106,Eglise Saint-Sulpice,Site et monument
+48.8456271101, 2.33958782584,75,60 BOULEVARD Saint-MICHEL - ECOLE DES MINES DE Paris,Paris,75106,Musée de minéralogie,Musée et écomusée
+48.8534355909, 2.30201254909,75,JARDIN DU CHAMP DE MARS - QUAI BRANLY,Paris,75107,Mur pour la paix,Site et monument
+48.8599219215, 2.32650970216,75,1 RUE DE LA LÉGION D'HONNEUR - ENTRÉE PAR LE PARVIS,Paris,75107,Musée d'Orsay,Musée et écomusée
+48.8514436102, 2.36990926441,75,120 rue de Lyon,Paris 12ÈME,0,Opéra national de Paris - opéra Bastille,Site et monument
+48.8498448298, 2.3060954159,75,7 PLACE FONTENOY,Paris,75107,Organisation des nations unies,Site et monument
+48.8660486153, 2.31451714885,75,AVENUE WINSTON CHURCHILL,Paris,75108,Petit Palais - musée des beaux-arts de la ville de Paris,Musée et écomusée
+48.8327109587, 2.389386033,75,53 AVENUE DES TERROIRS DE FRANCE - LES PAVILLONS DE BERCY,Paris,75112,Musée des arts forains,Musée et écomusée
+48.8353171201, 2.37584422115,75,43-63 QUAI DE LA GARE,Paris,75113,Caisse de dépôts et consignations,Site et monument
+48.842971249, 2.31846834073,75,18 RUE ANTOINE BOURDELLE,Paris,75115,Musée Bourdelle,Musée et écomusée
+48.8856079035, 2.34194976469,75,27 RUE CHAPPE - EN HAUT DU FUNICULAIRE,Paris,75118,Arènes de montmartre,Site et monument
+48.8603728259, 2.35234196813,75,PIAZZA DU CENTRE GEORGES POMPIDOU,Paris,75104,Atelier Brancusi - Centre Georges Pompidou,Musée et écomusée
+48.4461703735, 2.60258391869,77,92 GRANDE RUE,BARBIZON,77022,Musée départemental de l'ecole de Barbizon,Musée et écomusée
+48.8536534912, 2.60402291568,77,31 RUE DE Paris,CHAMPS-SUR-MARNE,77083,Domaine national de Champs-sur-Marne,Site et monument
+48.5615721421, 3.29071293674,77,7 RUE DU PALAIS,PROVINS,77379,Musée de Provins et du provinois,Musée et écomusée
+48.8913361703, 2.1648631385,78,2 RUE DU BAC - ILE DES IMPRESSIONNISTES,CHATOU,78146,Centre national de l'estampe et de l'art imprimé,Musée et écomusée
+48.8974280721, 2.09510734076,78,PLACE CHARLES DE GAULLE - Château DE Saint-GERMAIN-EN-LAYE,SAINT-GERMAIN-EN-LAYE,78551,Musée d'archéologie nationale,Musée et écomusée
+48.8927917264, 2.08746710008,78,2BIS RUE MAURICE DENIS - BP 60222,SAINT-GERMAIN-EN-LAYE,78551,Musée départemental Maurice Denis le prieuré,Musée et écomusée
+48.8638458885, 1.79605593762,78,Château DE THOIRY,THOIRY,78616,Château de Thoiry,Site et monument
+48.6464409142, 1.79837321172,78,"BERGERIE NATINALE, RAMBOUILLET",RAMBOUILLET,78517,Bergerie nationale,Musée et écomusée
+48.8057347082, 2.23154436071,92,5 PLACE JULES JANSSEN,MEUDON,92048,Observatoire de Meudon,Site et monument
+48.891335197, 2.23820905232,92,1 PARVIS DE LA DÉFENSE - TOIT DE LA GRANDE ARCHE DE LA DÉFENSE,Paris-LA DEFENSE,92062,Musée de l'informatique,Musée et écomusée
+48.8626259757, 2.54572386988,93,202 AVENUE JEAN-JAURÈS - SERHEP,NEUILLY-SUR-MARNE,93050,Musée d’art et d’histoire de la psychiatrie,Musée et écomusée
+48.924596851, 2.36031341741,93,ZAC DU CORNILLON NORD,SAINT-DENIS,93066,Stade de France,Site et monument
+48.9038302014, 2.33842765511,93,7 IMPASSE SIMON - OFFICE DE TOURISME DE Saint-OUEN,SAINT-OUEN,93070,Puces de Paris Saint-Ouen,"Espace de loisirs, espace récréatif"
+48.7049661038, 1.98591660666,78,Château DE DAMPIERRE,DAMPIERRE-EN-YVELINES,78193,Ecuries du Château de Dampierre,Site et monument
+48.8314491848, 2.11212723894,78,30 ROUTE DE VERSAILLES,ROCQUENCOURT,78524,Arboretum national de Chèvreloup,"Espace de loisirs, espace récréatif"
+48.8791260385, 2.31241847412,75,63 RUE DE MONCEAU,Paris,75108,Musée Nissim de Camondo,Musée et écomusée
+48.8423522084, 2.27227790998,75,PARC ANDRÉ CITROËN,Paris,75115,"Escale de Javel-bas, parc André Citroën","Haltes, escales ou ports fluviaux de plaisance"
+49.0801682219, 1.63376895786,95,ESCALE DE LA ROCHE GUYON,ROCHE-GUYON (LA),95523,Escale de la Roche Guyon,"Haltes, escales ou ports fluviaux de plaisance"
+48.7032446358, 2.40304717067,91,RUE HENRI ROSSIGNOL,VIGNEUX-SUR-SEINE,91657,Port premier Paris - sud,"Haltes, escales ou ports fluviaux de plaisance"
+48.5364230712, 2.656128393,77,,MELUN,77288,Port de la Reine Blanche,"Haltes, escales ou ports fluviaux de plaisance"
+48.4247045128, 2.74533382454,77,1 RUE DU PORT DE VALVINS,AVON,77014,Port Stéphane Mallarmé,"Haltes, escales ou ports fluviaux de plaisance"
+48.9463101207, 2.68933074825,77,,CLAYE-SOUILLY,77118,Halte de Claye-Souilly,"Haltes, escales ou ports fluviaux de plaisance"
+49.0297400729, 3.03514686375,77,,LIZY-SUR-OURCQ,77257,Halte de Lizy-sur-Ourcq,"Haltes, escales ou ports fluviaux de plaisance"
+48.3871038613, 2.80419800707,77,15 BIS QUAI DE LA SEINE,Saint-MAMMES,77419,Port de plaisance de Saint-Mammès,"Haltes, escales ou ports fluviaux de plaisance"
+49.0281475305, 1.63041199586,78,PORT DE L'ILON,SAINT-MARTIN-LA-GARENNE,78567,Port de l'Ilon,"Haltes, escales ou ports fluviaux de plaisance"
+48.9817701205, 1.99815806934,78,5 QUAI ARISTIDE BRIAND,TRIEL-SUR-SEINE,78624,"""mallard"" chantier plaisance","Haltes, escales ou ports fluviaux de plaisance"
+48.9114938153, 2.30157756686,92,2 QUAI AULAGNIER,ASNIERES-SUR-SEINE,92004,Port Van Gogh,"Haltes, escales ou ports fluviaux de plaisance"
+48.8181882782, 2.47110392139,94,2 QUAI GABRIEL PERI,JOINVILLE-LE-PONT,94042,Port de Joinville-le-Pont,"Haltes, escales ou ports fluviaux de plaisance"
+48.9888584231, 2.10112841598,78,,CONFLANS-SAINTE-HONORINE,78172,"""boat paradise"" port de plaisance","Haltes, escales ou ports fluviaux de plaisance"
+48.9496731076, 3.12974546245,77,34 RUE DES PELLETIERS,LA FERTE SOUS JOUARRE,77183,,Offices du tourisme et syndicats d'initiative
+48.3733822943, 2.81480271815,77,4 BIS PLACE DE SAMOIS,MORET SUR LOING,77316,,Offices du tourisme et syndicats d'initiative
+48.2662086516, 2.69663529854,77,16 RUE GASTON DARLEY,NEMOURS,77333,,Offices du tourisme et syndicats d'initiative
+48.7829223347, 2.04428799279,78,3 PLACE ROBERT SCHUMAN MONTIGNY LE BRETONNEUX,MONTIGNY LE BRETONNEUX,78423,,Offices du tourisme et syndicats d'initiative
+48.6094672419, 2.30439814821,91,3 RUE DU GENERAL LECLERC,BRETIGNY SUR ORGE,91103,,Offices du tourisme et syndicats d'initiative
+48.8024822374, 2.2637764371,92,"22, RUE PAUL VAILLANT COUTURIER",CLAMART,92023,,Offices du tourisme et syndicats d'initiative
+48.8470091322, 2.55296899737,93,34 AVENUE ARISTIDE BRIAND,NOISY LE GRAND,93051,,Offices du tourisme et syndicats d'initiative
+49.0184776442, 2.37974164178,95,"MANOIR DES TOURELLES
+1 PLACE DE L EGLISE",ECOUEN,95205,,Offices du tourisme et syndicats d'initiative
+48.9875733004, 2.31957786458,95,3 PLACE Château GAILLARD,MONTMORENCY,95428,,Offices du tourisme et syndicats d'initiative
+48.8645715552, 2.29681693406,75,13 AVENUE DU PRÉSIDENT WILSON,Paris,75116,"Palais de Tokyo, site de création contemporaine",Musée et écomusée
+48.761070363, 3.2882816646,77,Ancien Chemin de Choisy,LA FERTE GAUCHER,77182,Aerosphalte - loisirs mécaniques,"Espace de loisirs, espace récréatif"
+48.8295769635, 1.9810467747,78,"1, avenue du Président Kenedy",LES CLAYES-SOUS-BOIS,78165,One nation Paris,"Espace de loisirs, espace récréatif"
+48.8921361647, 2.24000922979,92,"2 PLACE DE LA DÉFENSE, PARIS LA DÉFENSE",PUTEAUX,92062,CNIT PARIS LA DÉFENSE,Centre de congrès et parc d'exposition
+48.8548777929, 2.35915682718,75,5 RUE DE FOURCY,Paris 4EME,75104,"Maison européenne de la photographie - ville de Paris, mep",Diffusion de l'art (autre que musée)
+49.0042257362, 2.53679291578,93,2 ROUTE DU NOYER AU CHAT,TREMBLAY-EN-FRANCE,93073,Maison de l'Environnement,Musée et écomusée
+48.7445018238, 2.01633955327,78,ROUTE DES GRANGES,MAGNY-LES-HAMEAUX,78356,Ancienne abbaye de Port Royal des Champs,Site et monument
+48.8149132621, 1.83243757909,78,15 RUE DE LA MAIRIE,VICQ,78653,Musee internation d'art naîf,Musée et écomusée
+48.8995971199, 2.2681517832,92,142 BD Saint DENIS - PARC DE BECON,COURBEVOIE,92026,Le pavillon des Indes,Site et monument
+48.8632648477, 2.33270320477,75,107 RUE DE RIVOLI - LES ARTS DÉCORATIFS,Paris,75101,Musée de la mode et du textile,Musée et écomusée
+48.8637765681, 2.32265676342,75,JARDIN DES TUILERIES,Paris,75101,Musée de l'orangerie,Musée et écomusée
+48.8639709692, 2.36156671209,75,2 RUE EUGÈNE SPULLER,Paris,75103,Mairie du 3e,Site et monument
+48.8581237089, 2.36182173461,75,8 RUE ELZÉVIR - MUSÉE DU XVIIIÈ DE LA VILLE DE Paris,Paris,75103,Musée Cognacq-Jay,Musée et écomusée
+48.8613669056, 2.35843641783,75,62 RUE DES ARCHIVES - HÔTEL DE MONGELAS,Paris,75103,Musée de la chasse et de la nature,Musée et écomusée
+48.8660906058, 2.35541895313,75,60 RUE RÉAUMUR,Paris,75103,Musée des arts et métiers,Musée et écomusée
+48.8605100459, 2.35244570795,75,PLACE GEORGES POMPIDOU,Paris,75104,Centre Pompidou,Site et monument
+48.8536137917, 2.34764420542,75,1 PLACE DU PARVIS DE ND,Paris,75104,Crypte archéologique du parvis de ND de Paris,Site et monument
+48.8450547584, 2.35282977947,75,49 RUE MONGE ET RUE DE NAVARRE,Paris,75105,Arènes de lutèce,Site et monument
+48.8418973212, 2.35522406458,75,2 BIS PLACE DU PUITS DE L'ERMITE,Paris,75105,Mosquée de Paris,Site et monument
+48.844221682, 2.34478548282,75,11 RUE PIERRE ET MARIE CURIE,Paris,75105,Musée Curie,Musée et écomusée
+48.8463050337, 2.34562448244,75,PLACE DU PANTHÉON,Paris,75105,Panthéon,Site et monument
+48.861317297, 2.31974870708,75,121 RUE DE LILLE,Paris,75107,Fondation Custodia,Musée et écomusée
+48.8626293725, 2.30253865216,75,PONT DE L'ALMA - FACE AU 93 QUAI D'ORSAY,Paris,75107,Musée des égouts de Paris,Musée et écomusée
+48.8558648984, 2.31344882361,75,HÔTEL NATIONAL DES INVALIDES,Paris,75107,Musée des plans-reliefs,Musée et écomusée
+48.7336972221, 2.29033215427,91,1 place de France,MASSY,0,Opéra de Massy,Diffusion du spectacle vivant
+48.8622907209, 2.30662148389,75,65 QUAI D'ORSAY,Paris,75107,The American Church in Paris,Site et monument
+48.8654594177, 2.32122499526,75,PLACE DE LA CONCORDE,Paris,75108,Place de la Concorde,Site et monument
+48.8662506313, 2.31253650689,75,PORTE PRINCIPALE - AVENUE WINSTON CHURCHILL,Paris,75108,Nef du Grand Palais,Site et monument
+48.8731289658, 2.33289175591,75,1ER ÉTAGE DES GALERIES LAFAYETTE - 40 BOULEVARD HAUSSMANN,Paris,75109,Galerie des Galeries,Musée et écomusée
+48.8433592709, 2.25140577505,75,24 RUE NUNGESSER ET COLI - IMMEUBLE MOLITOR,Paris,75116,Le Corbusier (appartement-atelier),Site et monument
+48.852152417, 2.26508931768,75,10 SQUARE DU DR BLANCHE - MAISON LA ROCHE,Paris,75116,Le Corbusier (fondation),Site et monument
+48.8867358601, 2.34151570366,75,2 RUE DU MONT CENIS,Paris,75118,Cimetière du Calvaire,Site et monument
+48.8596113063, 2.3893989805,75,16 RUE DU REPOS - ET 8 BOULEVARD DE MÉNILMONTANT,Paris,75120,Cimetière du père Lachaise,Site et monument
+48.8745024119, 2.39929720942,75,40 RUE DU TÉLÉGRAPHE,Paris,75120,Cimetière de Belleville,Site et monument
+48.5622372674, 3.28848139212,77,PLACE DU CHÂTEL,PROVINS,77379,Hôtel de Savigny,Site et monument
+48.7020074795, 2.06002800102,78,DOMAINE DE COUBERTIN,SAINT-REMY-LES-CHEVREUSE,78575,Collections de la fondation de Coubertin,Musée et écomusée
+48.8038590189, 2.12818896024,78,1 AVENUE DE Paris,VERSAILLES,78646,Musée des carrosses,Musée et écomusée
+48.5187824713, 2.37395002462,91,Château DU SAUSSAY,BALLANCOURT-SUR-ESSONNE,91045,Château Saussay,Site et monument
+48.5137615772, 2.21800743165,91,38 RUE DU COMMANDANT ARNOUX - CENTRE ARTISTIQUE ET CULTUREL,CHAMARANDE,91132,Domaine départemental de Chamarande,Site et monument
+48.4347947863, 2.16170497153,91,SERVICE DU TOURISME - HÔTEL ANNE-DE-PISSELEU,ETAMPES,91223,"Etampes, Ville royale",Site et monument
+48.642167144, 2.29227658558,91,12 RUE DE Paris,LONGPONT-SUR-ORGE,91347,Basilique ND-de-bonne-garde,Site et monument
+48.8633642506, 2.63539135576,77,ROUTE DE LAGNY,TORCY,77479,Ile de loisirs de Vaires-Torcy,"Espace de loisirs, espace récréatif"
+48.9943471366, 1.96362047506,78,CHEMIN DU ROUILLARD,VERNEUIL-SUR-SEINE,78642,Ile de loisirs du val de Seine,"Espace de loisirs, espace récréatif"
+48.7552988462, 2.32981138485,94,22-24 ALLÉE DES JACHÈRES,FRESNES,94034,Playmobil fun park,"Espace de loisirs, espace récréatif"
+48.7764801298, 1.96156820477,78,BOULEVARD ANDRÉ MALRAUX,ELANCOURT,78208,France Miniature,"Espace de loisirs, espace récréatif"
+48.6244651026, 1.87390905665,78,ROUTE DU COIN DU BOIS,SONCHAMP,78601,Espace Rambouillet,Musée et écomusée
+48.8428011508, 2.33376622569,75,100 BIS RUE D'ASSAS,Paris,75106,Musée Zadkine,Musée et écomusée
+48.822724727, 2.27346532471,92,16 RUE AUGUSTE GERVAIS,ISSY-LES-MOULINEAUX,92040,Musée français de la carte à jouer,Musée et écomusée
+48.8961595726, 2.10607550452,78,ESCALE DU PECQ,PECQ (LE),78481,Escale du Pecq,"Haltes, escales ou ports fluviaux de plaisance"
+48.8545984016, 2.35341274667,75,ESCALE DE L'HÔTEL DE VILLE,Paris,75104,Escale de l'hôtel de ville,"Haltes, escales ou ports fluviaux de plaisance"
+48.3907462154, 2.80745291355,77,QUAI DU LOING,VENEUX-LES-SABLONS,77491,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+48.5323941639, 2.66465299436,77,QUAI DU MARÉCHAL JOFFRE,MELUN,77288,"Port de Melun ""la plage""","Haltes, escales ou ports fluviaux de plaisance"
+48.4166274534, 3.24127402738,77,MAIRIE,BRAY-SUR-SEINE,77051,Halte fluviale,"Haltes, escales ou ports fluviaux de plaisance"
+48.9404378743, 2.33506075259,92,45 QUAI ALFRED SISLEY,VILLENEUVE-LA-GARENNE,92078,Port Sisley,"Haltes, escales ou ports fluviaux de plaisance"
+49.0700088306, 2.17822679625,95,,AUVERS-SUR-OISE,95039,Halte d'Auvers-sur-Oise,"Haltes, escales ou ports fluviaux de plaisance"
+49.001427372, 1.95918057446,78,,VERNEUIL-SUR-SEINE,78642,Port du Val de Seine,"Haltes, escales ou ports fluviaux de plaisance"
+48.1499042406, 2.70341185111,77,6 RUE HETZEL,CHATEAU LANDON,77099,,Offices du tourisme et syndicats d'initiative
+48.8124623691, 3.08422449384,77,7 RUE DU GENERAL DE GAULLE,COULOMMIERS,77131,,Offices du tourisme et syndicats d'initiative
+48.7650615618, 2.16550289588,78,29 BIS AVENUE JEAN JAURES,JOUY EN JOSAS,78322,,Offices du tourisme et syndicats d'initiative
+48.8654262953, 2.09701529622,78,2 AVENUE DES COMBATTANTS,MARLY LE ROI,78372,,Offices du tourisme et syndicats d'initiative
+48.9274564834, 2.04577420795,78,132 RUE DU GENERAL DE GAULLE,POISSY,78498,,Offices du tourisme et syndicats d'initiative
+48.7031517542, 2.070332198,78,1 RUE DITTE,SAINT REMY LES CHEVREUSE,78575,,Offices du tourisme et syndicats d'initiative
+48.802129942, 2.12884669975,78,2 BIS AVENUE DE Paris,VERSAILLES,78646,,Offices du tourisme et syndicats d'initiative
+48.4344249394, 2.16164225638,91,PLACE DE L HOTEL DE VILLE,ETAMPES,91223,,Offices du tourisme et syndicats d'initiative
+48.824231287, 2.27308542765,92,ESPLANADE DE L HOTEL DE VILLE,ISSY LES MOULINEAUX,92040,,Offices du tourisme et syndicats d'initiative
+48.817963472, 2.46652069834,94,23 RUE DE Paris,JOINVILLE LE PONT,94042,,Offices du tourisme et syndicats d'initiative
+49.1463820994, 1.97750764097,95,1 RUE DE LA CROIX DES VIGNES,MARINES,95370,,Offices du tourisme et syndicats d'initiative
+49.1280636297, 2.37024258626,95,"74, RUE DE Paris",VIARMES,95652,,Offices du tourisme et syndicats d'initiative
+48.7285605781, 2.37093170193,94,AEROPORT ORLY-SUD,ORLY,94054,,Offices du tourisme et syndicats d'initiative
+48.7630043489, 2.22550662719,91,78 rue de Bièvres,BIEVRES,91064,Musee francais de la photographie,Musée et écomusée
+48.7796866438, 3.30401031804,77,"Maison du tourisme, 35 rue des promenades",LA FERTE GAUCHER,77182,Vélorail du val du Haut Morin,"Espace de loisirs, espace récréatif"
+48.5671341225, 1.9298272355,78,MOULIN DE VILLENEUVE,SAINT-ARNOULT-EN-YVELINES,0,Maison Elsa Triolet-Aragon,Musée et écomusée
+48.9715143414, 2.51869215807,93,ROISSY CHARLES DE GAULLE,VILLEPINTE,93078,Paris Nord Villepinte,Centre de congrès et parc d'exposition
+48.8249796988, 2.2575226374,92,PARC DEPARTEMENTAL DE L'ILE Saint-GERMAIN,ISSY-LES-MOULINEAUX,92040,Tour aux figures de Jean Dubuffet,Diffusion de l'art (autre que musée)
+48.7260819888, 2.12381495929,91,7-9 ROUTE DE GIF,VILLERS-LE-BÂCLE,91679,Maison atelier Foujita,Musée et écomusée
+48.8618714241, 2.34013973757,75,145 RUE Saint-HONORÉ,Paris,75101,Eglise réformée de l'oratoire du Louvre,Site et monument
+48.8691293464, 2.34135531279,75,RUE NOTRE DAME DES VICTOIRES - PALAIS DE LA BOURSE,Paris,75102,Palais de la bourse,Site et monument
+48.8505474792, 2.36219426242,75,21 BOULEVARD MORLAND,Paris,75104,Pavillon de l'arsenal,Site et monument
+48.8470436931, 2.3570912306,75,RUE CUVIER,Paris,75105,Université de Jussieu,Site et monument
+48.8483633584, 2.3476608213,75,17 RUE DES CARMES,Paris,75105,Eglise Saint-Ephrem,Site et monument
+48.8377822118, 2.34657365111,75,4 RUE FLATTERS,Paris,75105,Musée des eclairages anciens,Musée et écomusée
+48.8506056916, 2.34369021952,75,6 PLACE PAUL PAINLEVÉ,Paris,75105,Musée national du moyen-age,Musée et écomusée
+48.8486367653, 2.3372946432,75,15 RUE DE VAUGIRARD,Paris,75106,Sénat-Palais du Luxembourg,Site et monument
+48.8581882583, 2.31021514443,75,51 BIS BOULEVARD DE LATOUR-MAUBOURG - HÔTEL NATIONAL DES INVALIDES,Paris,75107,Musée de l'ordre de la libération,Musée et écomusée
+48.8610133945, 2.29763434638,75,37 QUAI BRANLY - PORTAIL DEBILLY,Paris,75107,Musée du quai Branly,Musée et écomusée
+48.855919035, 2.31597006355,75,79 RUE DE VARENNE - HÔTEL BIRON,Paris,75107,Musée Rodin,Musée et écomusée
+48.8737041296, 2.32302865278,75,29 RUE PASQUIER - SQUARE LOUIS XVI,Paris,75108,Chapelle Expiatoire,Site et monument
+48.8809100818, 2.33334735194,75,16 RUE CHAPTAL - HÔTEL SCHEFFER RENAN,Paris,75109,Musée de la vie romantique,Musée et écomusée
+48.844194646, 2.39632255647,75,35 RUE DE PICPUS,Paris,75112,Cimetière de Picpus,Site et monument
+48.8374360688, 2.38249159262,75,51 RUE DE BERCY,Paris,75112,Cinémathèque française,Musée et écomusée
+48.8410574018, 2.3781556881,75,139 RUE DE BERCY,Paris,75112,Ministère des finances,Site et monument
+48.8350446122, 2.4092048319,75,293 AVENUE DAUMESNIL,Paris,75112,Palais de la porte Dorée - aquarium tropical,Musée et écomusée
+48.8346434764, 2.35208579391,75,42 AVENUE DES GOBELINS,Paris,75113,Manufactures nationales des Gobelins,Site et monument
+48.7934049079, 2.39269843182,94,18 AVENUE HENRI BARBUSSE,VITRY-SUR-SEINE,94081,Explor@dôme,Musée et écomusée
+48.8453342484, 2.26005358376,75,44 RUE MOLITOR,Paris,75116,Eglise Saint-François de Molitor,Site et monument
+48.8679986937, 2.29289517911,75,11 PLACE DES ETATS-UNIS,Paris,75116,Musée Baccarat,Musée et écomusée
+48.8647292298, 2.2979411319,75,11 AVENUE DU PRÉSIDENT WILSON,Paris,75116,Musée d'art moderne de la ville de Paris,Musée et écomusée
+48.8618155949, 2.2873518788,75,17 PLACE DU TROCADÉRO - PALAIS DE CHAILLOT,Paris,75116,Musée national de la marine,Musée et écomusée
+48.8871779194, 2.34340214701,75,35 RUE DU CHEVALIER-DE-LA-BARRE - PARVIS DU SACRÉ COEUR,Paris,75118,Basilique du sacré-coeur de Montmartre,Site et monument
+48.5613622051, 3.29009502815,77,RUE DE LA PIE,PROVINS,77379,Tour César  - cite medievale de Provins,Site et monument
+48.6455217823, 1.81751277919,78,DOMAINE NATIONAL DU Château DE RAMBOUILLET,RAMBOUILLET,78517,Château de Rambouillet,Site et monument
+48.6446782926, 1.82235222935,78,RUE DU GÉNÉRAL DE GAULLE - PLACE DU ROI DE ROME,RAMBOUILLET,78517,Musée du jeu de l'oie,Musée et écomusée
+48.8190831945, 2.1133910244,78,RP 834,VERSAILLES,78646,Domaine de Marie-Antoinette,Site et monument
+48.5298781594, 2.01119494062,91,PLACE DU GÉNÉRAL DE GAULLE,DOURDAN,91200,Musée du chateau de dourdan,Musée et écomusée
+48.6618828045, 2.16399350015,91,DOMAINE DE Saint-JEAN-DE-BEAUREGARD,Saint-JEAN-DE-BEAUREGARD,91560,Domaine de Saint-Jean de Beauregard,Site et monument
+48.4747912994, 2.49630900857,91,LE MOULIN DES NOUES,SOISY-SUR-ECOLE,91599,Verrerie d'art de Soisy-sur-Ecole,Musée et écomusée
+48.8411701812, 2.22686448936,92,14 RUE DU PORT,BOULOGNE-BILLANCOURT,92012,Musée départemental Albert Kahn,Musée et écomusée
+48.8914203675, 2.24192171271,92,15 PLACE DE LA DÉFENSE - ESPACE INFO-DÉFENSE,Paris-LA DEFENSE,92026,Musée de la Défense,Musée et écomusée
+49.0470873907, 2.10186184938,95,,PONTOISE,95500,Pontoise  halte nautique,"Haltes, escales ou ports fluviaux de plaisance"
+48.8716984038, 2.16908524426,92,AVENUE DU Château DE MALMAISON,RUEIL-MALMAISON,92063,Musée national des Châteaux de Malmaison et Bois-Préau,Musée et écomusée
+48.8148312003, 2.42104040346,94,7 AVENUE DU GÉNÉRAL DE GAULLE,MAISONS-ALFORT,94046,Ecole nationale vétérinaire de Maisons-Alfort,Site et monument
+49.0718619273, 2.17633617991,95,RUE DAUBIGNY - PAROISSE ND,AUVERS-SUR-OISE,95039,Eglise ND d'Auvers,Site et monument
+49.1072091598, 2.18324965763,95,RUE DU MOULIN MOREL,VALMONDOIS,95628,Maison de la Meunerie,Musée et écomusée
+48.8781689607, 2.2639289322,75,BOIS DE BOULOGNE,Paris,75116,Jardin d'Accimatation,"Espace de loisirs, espace récréatif"
+48.7803185286, 2.44699840951,94,RUE JEAN GABIN,CRETEIL,94028,Ile de loisirs de Créteil,"Espace de loisirs, espace récréatif"
+49.0621651922, 1.67732413016,78,MOISSON,MOISSON,78410,Ile de loisirs des Boucles de Seine,"Espace de loisirs, espace récréatif"
+48.7762613786, 2.3350412001,94,RUE ALBERT WATEL,L'HAŸ-LES-ROSES,94038,"Roseraie du Val-de-Marne
+roseraie du val-de-marne (17)
+roseraie du *","Espace de loisirs, espace récréatif"
+48.774109595, 2.26978404586,92,34 RUE EUGÈNE SINET,CHÂTENAY-MALABRY,92019,L'ile  verte,"Espace de loisirs, espace récréatif"
+48.8777310702, 2.26961685567,75,JARDIN D'ACCLIMATATION - BOIS DE BOULOGNE,Paris,75116,Musée en herbe,Musée et écomusée
+48.8338628659, 2.37865830932,75,ESCALE DE LA GARE,Paris,75112,Escale de la gare bibliothèque,"Haltes, escales ou ports fluviaux de plaisance"
+48.8543107917, 2.34439662006,75,ESCALE NOTRE DAME - Saint MICHEL,Paris,75104,"Escale ND, Saint-Michel","Haltes, escales ou ports fluviaux de plaisance"
+49.0627147102, 1.69993349896,95,ESCALE DE VÉTHEUIL,VETHEUIL,95651,Escale de Vétheuil,"Haltes, escales ou ports fluviaux de plaisance"
+48.8619309385, 2.29636503634,75,,Paris,75107,"Escale Bourdonnais, musée du quai Branly","Haltes, escales ou ports fluviaux de plaisance"
+48.5372644026, 2.6525409337,77,,MELUN,77288,"Escale melun, port de la reine Blanche","Haltes, escales ou ports fluviaux de plaisance"
+48.5280533633, 2.63110299094,77,"40, CHEMIN DES PRAILLONS",BOISSETTES,77038,Port Saint-Jacques,"Haltes, escales ou ports fluviaux de plaisance"
+48.8500435797, 2.36771037516,75,11 BOULEVARD DE LA BASTILLE,Paris,75112,Port de l'Arsenal,"Haltes, escales ou ports fluviaux de plaisance"
+48.8821664191, 2.71922383454,77,109 QUAI DE LA GOURDINE,LAGNY-SUR-MARNE,77243,Port de Lagny-sur-Marne,"Haltes, escales ou ports fluviaux de plaisance"
+48.9735781233, 2.93934111891,77,ROUTE DU MOULIN DE POINCY,POINCY,77369,Port privé du cercle nautique Poincy,"Haltes, escales ou ports fluviaux de plaisance"
+48.9966415852, 1.72265311453,78,41 QUAI AUX VINS,LIMAY,78335,Marines de Limay,"Haltes, escales ou ports fluviaux de plaisance"
+48.9333274976, 2.03780710583,78,132 RUE DU GÉNÉRAL DE GAULLE,POISSY,78498,Halte de Poissy,"Haltes, escales ou ports fluviaux de plaisance"
+48.831931837, 2.49117530263,94,8 RUE DU PORT,NOGENT-SUR-MARNE,94052,Port de plaisance de Nogent-sur-Marne,"Haltes, escales ou ports fluviaux de plaisance"
+48.9772033103, 2.17600961319,95,55 QUAI DE LA SEINE,LA FRETTE-SUR-SEINE,95257,Halte de plaisance de la Frette,"Haltes, escales ou ports fluviaux de plaisance"
+49.1120644394, 2.2118682305,95,CHEMIN DU HALAGE,L'ISLE ADAM,95313,Halte de l'Isle - Adam,"Haltes, escales ou ports fluviaux de plaisance"
+48.8940130608, 2.10901339832,78,,LE PECQ,78481,Zone porturaire du Pecq,"Haltes, escales ou ports fluviaux de plaisance"
+48.3428751021, 2.71713374234,77,37 RUE MURGER,BOURRON MARLOTTE,77048,,Offices du tourisme et syndicats d'initiative
+49.0246411068, 3.02258225001,77,43 RUE JEAN JAURES,LIZY SUR OURCQ,77257,,Offices du tourisme et syndicats d'initiative
+48.9617074521, 2.87777650813,77,1 PLACE DOUMER,MEAUX,77284,,Offices du tourisme et syndicats d'initiative
+48.5396372975, 2.66029981449,77,18 RUE PAUL DOUMER,MELUN,77288,,Offices du tourisme et syndicats d'initiative
+48.5301925247, 2.543880933,77,71 AVENUE DE FONTAINEBLEAU,ST FARGEAU PONTHIERRY,77407,,Offices du tourisme et syndicats d'initiative
+48.7772080378, 1.80696750256,78,3 RUE AMAURY,MONTFORT L AMAURY,78420,,Offices du tourisme et syndicats d'initiative
+48.6127136468, 2.48258886123,91,11 PLACE DU COMTE HAYMON,CORBEIL ESSONNES,91174,,Offices du tourisme et syndicats d'initiative
+48.6991429304, 2.18513498312,91,"17, RUE DE L YVETTE",ORSAY,91471,,Offices du tourisme et syndicats d'initiative
+48.746340473, 2.26688437556,91,"PLACE CHARLES DE GAULLE 
+/ VILLA SaintE CHRISTINE",VERRIERES LE BUISSON,91645,,Offices du tourisme et syndicats d'initiative
+48.910794258, 2.29295876381,92,9 RUE DE L EGLISE (MAISON DU TOURISME ET DES PROJETS),ASNIERES SUR SEINE,92004,,Offices du tourisme et syndicats d'initiative
+48.7791639885, 2.31597000388,92,1 BOULEVARD CARNOT,BOURG LA REINE,92014,,Offices du tourisme et syndicats d'initiative
+48.9335365594, 2.29734387948,92,58 RUE PIERRE TIMBAUD,GENNEVILLIERS,92036,,Offices du tourisme et syndicats d'initiative
+48.8899844927, 2.19502448122,92,4 RUE DU MARCHE,NANTERRE,92050,,Offices du tourisme et syndicats d'initiative
+48.7772886975, 2.29538561922,92,70 RUE DE HOUDAN,SCEAUX,92071,,Offices du tourisme et syndicats d'initiative
+48.8542456214, 2.48192836094,94,4 BIS AVENUE CHARLES GARCIA,FONTENAY SOUS BOIS,94033,,Offices du tourisme et syndicats d'initiative
+49.0046183688, 2.56700979598,93,AEROPORT CDG - TERMINAL 2D,TREMBLAY-EN-FRANCE,93073,,Offices du tourisme et syndicats d'initiative
+48.8200204119, 2.46152168718,75,118 route Pyramide,Paris,75112,Evasion verte,"Espace de loisirs, espace récréatif"
+48.8574543713, 2.35334197666,75,52 rue de Rivoli,Paris,75104,Bazar de l'hôtel de ville,"Espace de loisirs, espace récréatif"
+48.8625259648, 2.33519981539,75,"99, RUE DE RIVOLI, 75001 PARIS",PARIS,75101,CARROUSEL DU LOUVRE,Centre de congrès et parc d'exposition
+48.4097699622, 2.45953634386,91,LE  BOIS DES PAUVRES,MILLY-LA-FORÊT,91405,Le Cyclop de Jean Tinguely,Diffusion de l'art (autre que musée)
+48.8684336223, 2.32161949133,75,12 RUE BOISSY D'ANGLAS,Paris 8EME,75108,Fondation d'entreprise Ricard,Diffusion de l'art (autre que musée)
+48.8848321249, 2.34421329424,75,2 RUE RONSARD,Paris 18EME,75118,Halle Saint-Pierre,Diffusion de l'art (autre que musée)
+48.7479963883, 2.0152948601,78,ROUTE DES GRANGES,MAGNY-LES-HAMEAUX,78356,Musee de Port Royal des Champs,Musée et écomusée
+48.8682313051, 2.2218317369,92,PLACE DE LA GARE DE SURESNES LONGCHAMP,SURESNES,92073,Musee d'histoire urbaine et sociale,Musée et écomusée
+48.8623000086, 2.34824030396,75,"RUES RAMBUTEAU, PIERRE LESCOT ET BERGER",Paris,75101,Forum des Halles,"Espace de loisirs, espace récréatif"
+48.8512698999, 2.3575515282,75,19 BIS RUE Saint-LOUIS-EN-L'ILE,Paris,75104,Eglise Saint-Louis-en-l'ile,Site et monument
+48.8585796553, 2.35774876636,75,11 RUE DES BLANCS MANTEAUX,Paris,75104,Galerie d'Architecture,Musée et écomusée
+48.8548496071, 2.35636156894,75,17 RUE GEOFFROY L'ASNIER,Paris,75104,Mémorial de la Shoah,Musée et écomusée
+48.8444357544, 2.34242067906,75,195 RUE Saint-JACQUES,Paris,75105,Centre de la mer - Institut océanographique,Musée et écomusée
+48.8508012241, 2.34122088481,75,15 RUE DE L'ECOLE DE MÉDECINE,Paris,75106,Couvent des Cordeliers,Site et monument
+48.8539544788, 2.33440817923,75,3 PLACE Saint-GERMAIN-DES-PRÉS,Paris,75106,Eglise Saint-Germain-des-Prés,Site et monument
+48.8483348756, 2.32944108297,75,21 RUE D'ASSAS - INSTITUT CATHOLIQUE DE Paris,Paris,75106,Musée Bible et Terre Sainte,Musée et écomusée
+48.8617066002, 2.31785692009,75,126 RUE DE L'UNIVERSITÉ,Paris,75107,Assemblée Nationale,Site et monument
+48.8718513036, 2.34209831186,75,10 BOULEVARD MONTMARTRE,Paris,75109,Musée Grévin,Musée et écomusée
+48.8755375952, 2.33644414463,75,44 RUE DE LA VICTOIRE,Paris,75109,Synagogue de la rue de la Victoire,Site et monument
+48.8695338506, 2.35460612936,75,2 BOULEVARD DE STRASBOURG - ATELIER HOGUET,Paris,75110,Musée de l'eventail,Musée et écomusée
+48.8193060827, 2.34343074486,75,"7 L, BOULEVARD JOURDAN",Paris,75114,Maison du Brésil,Site et monument
+48.8447883615, 2.27993440518,75,27 RUE DE LA CONVENTION,Paris,75115,Imprimerie nationale,Site et monument
+48.8416803906, 2.29963442506,75,23 ALLÉE DE LA 2E DB - JARDIN ATLANTIQUE,Paris,75115,Mémorial du maréchal leclerc de Hauteclocque - musée Jean Moulin,Musée et écomusée
+48.8693616712, 2.28487171578,75,9 PLACE VICTOR HUGO,Paris,75116,Eglise Saint-Honoré-d'Eylau,Site et monument
+48.8737808116, 2.27144391498,75,88 RUE DE L'ASSOMPTION,Paris,75116,Eglise de ND-de-l'Assomption,Site et monument
+48.8553549492, 2.28080596561,75,47 RUE RAYNOUARD,Paris,75116,Maison de Balzac,Musée et écomusée
+48.88768267, 2.34067110458,75,12 RUE CORTOT,Paris,75118,Musée de Montmartre,Musée et écomusée
+48.8957066098, 2.38966915457,75,30 AVENUE CORENTIN CARIOU,Paris,75119,Cité des sciences et de l'industrie,Musée et écomusée
+48.8581027037, 2.92623464076,77,LA CHAPELLE-SOUS-CRÉCY - OFFICE DE TOURISME DU PAYS CRÉÇOIS,CRECY-LA-CHAPELLE,77142,Collégiale de Crécy,Site et monument
+48.8196209231, 2.71209355003,77,RUE RUCHERIE,FERRIERES-EN-BRIE,77181,Château de Ferrières,Site et monument
+48.3974950215, 2.72474711595,77,2 RUE DES ARCHIVES,FONTAINEBLEAU,77186,Archives nationales - site de fontainebleau,Musée et écomusée
+48.3156481372, 2.69088811038,77,SYNDICAT D'INITIATIVE,GREZ-SUR-LOING,77216,Donjon et pont médiéval,Site et monument
+48.5657234503, 2.71423390045,77,Château DE VAUX LE VICOMTE,MAINCY,77269,Château de Vaux le Vicomte,Site et monument
+48.6456052853, 1.79773492977,78,BERGERIE NATIONALE - PARC DU Château,RAMBOUILLET,78517,Musée du mouton - bergerie nationale,Musée et écomusée
+48.8010038702, 2.12375767153,78,1 RUE DU JEU DE PAUME,VERSAILLES,78646,Salle du jeu de paume,Site et monument
+48.9212329034, 2.44906198533,93,ESPLANADE CHARLES DE GAULLE - AVENUE JEAN JAURÈS,DRANCY,93029,Mémorial du camp de Drancy,Site et monument
+49.0710938454, 2.17136485831,95,RUE DE LA SANSONNE - MANOIR DES COLOMBIÈRES,AUVERS-SUR-OISE,95039,Musée Daubigny,Musée et écomusée
+49.0920295091, 2.20174136008,95,PARKING DE LA GARE SNCF DE VALMONDOIS,VALMONDOIS,95628,Musée des tramways à vapeur et des chemins de fer secondaires franç,Musée et écomusée
+48.7645706286, 2.67587433268,77,ROUTE DE CHEVRY-COSSIGNY,OZOIR LA FERRIÈRE,77350,Parc zoologique du bois d'Attily,"Espace de loisirs, espace récréatif"
+48.7727440549, 2.26476148114,92,102 RUE DE CHATEAUBRIAND,CHATENAY-MALABRY,92019,Arboretum de la vallee-aux-loups,"Espace de loisirs, espace récréatif"
+49.1333798279, 2.72181661417,60,RN 330,ERMENONVILLE,60213,Mer de Sable,"Espace de loisirs, espace récréatif"
+48.7925435659, 1.98810044159,78,"ROND POINT ERIC TABARLY, RD 912",TRAPPES-EN-YVELINES,78621,Ile de loisirs de St Quentin en Yvelines,"Espace de loisirs, espace récréatif"
+48.8880409155, 2.43182055565,93,"HOTEL DE VILLE, RUE DE Paris",ROMAINVILLE,93063,Ile de loisirs de la corniche des forts,"Espace de loisirs, espace récréatif"
+48.3406846375, 2.69641977979,77,14 RUE DU MARÉCHAL FOCH,BOURRON-MARLOTTE,77048,Château de Bourron,Site et monument
+49.0352460607, 1.57153782444,78,ESCALE DE BONNIÈRES-SUR-SEINE,BONNIÈRES-SUR-SEINE,78089,Escale de Bonnières-sur-seine,"Haltes, escales ou ports fluviaux de plaisance"
+48.8514976735, 2.28001025398,75,ESCALE DE PASSY,Paris,75116,Escale maison de la radio - Passy,"Haltes, escales ou ports fluviaux de plaisance"
+48.8484661334, 2.36219519106,75,ESCALE HENRI IV,Paris,75104,Escale Henri IV,"Haltes, escales ou ports fluviaux de plaisance"
+48.9899634119, 2.11186709898,78,LA CROIX D'ACHÈRES,ACHÈRES,78005,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+48.9512928318, 2.93877005941,77,HALTE DE TRILPORT,TRILPORT,77475,Halte,"Haltes, escales ou ports fluviaux de plaisance"
+48.94253717, 2.00924735121,78,AVENUE VANDERBILT,CARRIERES-SOUS-POISSY,78123,"Nouvelle marina, port Saint-Louis","Haltes, escales ou ports fluviaux de plaisance"
+48.9904999871, 2.08663678776,78,PORT CONFLANS AMBIANCE YACHTING / PK RG,CONFLANS-SAINTE-HONORINE,78172,Port de Conflans,"Haltes, escales ou ports fluviaux de plaisance"
+48.6912799524, 2.39161012888,91,RUE DU PORT AUX CERISES,DRAVEIL,91201,Port aux Cerises,"Haltes, escales ou ports fluviaux de plaisance"
+48.5698832476, 2.48685884514,91,25 CHEMIN DES ILES,MORSANG-SUR-SEINE,91435,Port privé de Morsang-sur-Seine,"Haltes, escales ou ports fluviaux de plaisance"
+48.8891666275, 2.16454301998,92,11 PLACE DES IMPRESSIONNISTES,RUEIL-MALMAISON,92063,Halte fluviale de Rueil,"Haltes, escales ou ports fluviaux de plaisance"
+48.8536241272, 2.53913397247,93,PORT DE PLAISANCE LA HAUTE-ILE,NEUILLY-SUR-MARNE,93050,Port de plaisance de Neuilly-sur-Marne,"Haltes, escales ou ports fluviaux de plaisance"
+48.9413423015, 2.34090092713,93,FACE STADE DE FRANCE,SAINT-DENIS,93066,Halte de plaisance,"Haltes, escales ou ports fluviaux de plaisance"
+48.8004414906, 2.60764450731,77,107 AVENUE DE LA REPUBLIQUE,PONTAULT COMBAULT,77373,,Offices du tourisme et syndicats d'initiative
+48.5614627264, 3.28289933815,77,CHEMIN DE VILLECRAN,PROVINS,77379,,Offices du tourisme et syndicats d'initiative
+48.7050333621, 1.98603150667,78,9 GRANDE RUE,DAMPIERRE EN YVELINES,78193,,Offices du tourisme et syndicats d'initiative
+48.5724637571, 1.93878013188,78,"L ORANGERIE, RUE DES REMPARTS
+Saint ARNOULT EN YVELINES",SAINT ARNOULT EN YVELINES,78537,,Offices du tourisme et syndicats d'initiative
+48.5292638278, 2.01109944891,91,PLACE DU GENERAL DE GAULLE,DOURDAN,91200,,Offices du tourisme et syndicats d'initiative
+48.8355163583, 2.2401150852,92,25 RUE ANDRE MORIZET,BOULOGNE BILLANCOURT,92012,,Offices du tourisme et syndicats d'initiative
+48.857862703, 2.43692048536,93,1 RUE KLEBER,MONTREUIL,93048,,Offices du tourisme et syndicats d'initiative
+48.9096759931, 2.33289997773,93,30 AVENUE GABRIEL PERI,SAINT-OUEN,93070,,Offices du tourisme et syndicats d'initiative
+49.1323066123, 2.35497515785,95,"17, RUE PIERRE BROSSOLETTE",ASNIERES SUR OISE,95026,,Offices du tourisme et syndicats d'initiative
+48.9691955989, 2.30520749499,95,"81, RUE DU GENERAL DE GAULLE",ENGHIEN LES BAINS,95210,,Offices du tourisme et syndicats d'initiative
+48.8298181878, 2.80662207781,77,route de camp davy crockett,VILLENEUVE LE COMTE,77508,Parcours aventure Davy Crockett,"Espace de loisirs, espace récréatif"
+48.8403725258, 2.34143825158,75,1 PLACE ALPHONSE LAVERAN,PARIS,75105,Musée du service de santé des armées,Musée et écomusée
